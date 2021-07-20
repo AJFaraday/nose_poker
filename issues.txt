@@ -1,0 +1,28 @@
+Issues:
+
+* Need better reporting (username/ogrename old_np - pokes = new_np)
+* JSON rep of the final score ordered by round desc, then final_score desc
+
+```json
+[
+  {
+    ogre: 'ajfarday/test_answer',
+    round: 3,
+    final_score: 0
+  },
+  ...
+]
+```
+
+Nice to haves
+
+Some HTML UI displaying the results (no in-browser game today)
+- Can this add anything to the widget table? (e.g. some kind of charts)?
+
+Plan
+
+* Make the game work (tick)
+* Import answers (tick)
+* Record data in visible location
+* Write up API (tick)
+* Write up challenge, sandbox
