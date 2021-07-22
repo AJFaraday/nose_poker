@@ -6,6 +6,7 @@ module.exports = class {
 
   play_hand() {
     this.controller.declare(this.controller.np() / 100 * 90);
+    //this.controller.declare(500)
   }
 
 };

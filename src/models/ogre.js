@@ -8,6 +8,7 @@ class Ogre {
     this.np = 500;
     this.old_np = 500;
     this.reached_hand = 0;
+    this.out_reason = "Winner!"
     this.controller = new Controller(game, this);
     this.client = new client_class(this.controller);
   }
@@ -41,7 +42,11 @@ class Ogre {
     } else {
       format = "\x1b[0m"
     }
-    console.log(format, `${this.name.padEnd(this.longest_name)} ${this.old_np} - ${this.pokes} = ${this.np}`);
+    console.log(format, `${this.name.padEnd(this.game.longest_name)} ${this.old_np.toString().padStart(3)} - ${this.pokes.toString().padStart(3)} = ${this.np.toString().padStart(3)}`);
+  }
+
+  sort_number() {
+    return (this.reached_hand * 1000) + this.np;
   }
 
 }
