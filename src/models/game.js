@@ -124,7 +124,7 @@ class Game {
       })
     );
     FS.writeFileSync(
-      `${__dirname}/../../docs/tables.js`,
+      `${__dirname}/../../docs/ogres.js`,
       `ogres =  ${json}`
     );
   }
