@@ -11,5 +11,5 @@ echo "Deploying to git"
 git add src/clients/*
 now=`date '+%F_%H:%M:%S'`;
 commit_message="Automated deploy: ${now}"
-git commit src/clients/* docs/* -m "$commit_message"
+git commit src/clients/imported/* docs/* -m "$commit_message"
 git push

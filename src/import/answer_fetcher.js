@@ -45,7 +45,7 @@ class AnswerFetcher {
 
   clear_directory() {
     var folders = FS.readdirSync(`${__dirname}/../../src/clients/imported/`);
-    var safe_entries = ['default', 'working', 'template.js'];
+    var safe_entries = ['default', 'working', 'template.js', '.gitkeep'];
     folders
       .filter((folder) => {
         return !safe_entries.includes(folder)
