@@ -4,6 +4,8 @@ module.exports = class {
     }
     
     play_hand() {
-        this.controller.declare(Math.max(1, Math.floor(this.controller.np() / 2)));
+        var np = this.controller.np()
+        var bid = np < 10 ? np : Math.floor(np / 2);
+        this.controller.declare(bid);
     }
 };
