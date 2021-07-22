@@ -11,6 +11,7 @@ class Ogre {
     this.out_reason = "Winner!"
     this.controller = new Controller(game, this);
     this.client = new client_class(this.controller);
+    this.active = true;
   }
 
   play_hand() {

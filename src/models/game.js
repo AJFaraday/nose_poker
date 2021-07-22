@@ -45,6 +45,9 @@ class Game {
     console.log("\x1b[0m", `${this.active_ogres.length} remain`)
     console.log('');
     this.hand_number += 1;
+    this.active_ogres = this.active_ogres.filter(ogre => {
+      return ogre.active;
+    });
   }
 
   remove_ogres() {
@@ -57,13 +60,13 @@ class Game {
     });
     // They're out of np, they're out of the game.
     this.active_ogres.forEach(ogre => {
-      if (ogre.np <= 0) {
+      if (ogre.active && ogre.np <= 0) {
         this.knock_out(ogre, "Has no nose");
       }
     });
     // The lowest bid is knocked out.
     this.active_ogres.forEach(ogre => {
-      if (ogre.pokes == this.lowest_bid) {
+      if (ogre.active && ogre.pokes == this.lowest_bid) {
         this.knock_out(ogre, "Cowardice!");
       }
     });
@@ -87,9 +90,9 @@ class Game {
   }
 
   knock_out(ogre, reason) {
+    ogre.active = false;
     ogre.out_reason = reason;
     this.inactive_ogres.push(ogre);
-    Utils.remove_from_array(this.active_ogres, ogre);
   }
 
   report_final_state() {
