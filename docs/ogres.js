@@ -1,1 +1,1 @@
-ogres =  [{"name":"default/half_way","hand":3,"np":63,"reason":"Winner!"},{"name":"default/go_big","hand":2,"np":1,"reason":"Cowardice!"},{"name":"imported/ajfaraday/test_answer","hand":1,"np":470,"reason":"Cowardice!"},{"name":"default/go_home","hand":0,"np":499,"reason":"Cowardice!"}]
+ogres =  [{"name":"default/half_way","hand":2,"np":125,"reason":"Winner!"},{"name":"default/go_big","hand":1,"np":5,"reason":"Cowardice!"},{"name":"default/go_home","hand":0,"np":499,"reason":"Cowardice!"}]
