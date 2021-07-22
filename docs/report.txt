@@ -16,4 +16,4 @@
 [0m default/go_big      1    5 Cowardice!
 [0m default/go_home     0  499 Cowardice!
 
-Finished in 2ms
+Finished in 5ms
