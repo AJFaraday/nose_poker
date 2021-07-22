@@ -35,36 +35,52 @@ class Game {
   play_hand() {
     this.active_ogres.forEach(ogre => {
       ogre.play_hand();
-      if (ogre.np <= 0) {
-        this.knock_out(ogre);
-      }
     });
-    this.active_ogres = this.active_ogres.sort((a, b) => {
-      return b.np - a.np;
-    });
-    this.remove_lowest_bid();
-    console.log(`After hand ${this.hand_number}`)
-    console.log(`${this.active_ogres.length} remain`)
-    this.active_ogres.forEach(ogre => {
-      console.log(`${ogre.name.padEnd(this.longest_name)} ${ogre.np}`);
-    });
+    this.get_lowest_bid();
+    this.log_bids();
+    this.remove_ogres();
+    console.log("\x1b[0m", `${this.active_ogres.length} remain`)
     console.log('');
     this.hand_number += 1;
   }
 
-  remove_lowest_bid() {
+  remove_ogres() {
+    // They didn't play, they're out.
     this.active_ogres.forEach(ogre => {
       if (!Number.isFinite(ogre.pokes) || ogre.pokes == 0) {
         // They didn't play, they're out.
         this.knock_out(ogre);
       }
     });
-    var lowest_bid = Math.min(...this.active_ogres.map(ogre => {return ogre.pokes}));
+    // They're out of np, they're out of the game.
     this.active_ogres.forEach(ogre => {
-      if (ogre.pokes == lowest_bid) {
+      if (ogre.np <= 0) {
         this.knock_out(ogre);
       }
     });
+    // The lowest bid is knocked out.
+    this.active_ogres.forEach(ogre => {
+      if (ogre.pokes == this.lowest_bid) {
+        this.knock_out(ogre);
+      }
+    });
+    this.active_ogres.forEach(ogre => ogre.reached_hand = this.hand_number);
+  }
+
+  log_bids() {
+    console.log("\x1b[0m", `After hand ${this.hand_number}`)
+    this.active_ogres = this.active_ogres.sort((a, b) => {
+      return b.np - a.np;
+    });
+    this.active_ogres.forEach((ogre, index) => {
+      ogre.log_move();
+    });
+  }
+
+  get_lowest_bid() {
+    this.lowest_bid = Math.min(...this.active_ogres.map(ogre => {
+      return ogre.pokes
+    }));
   }
 
   knock_out(ogre) {

@@ -60,11 +60,15 @@ this.controller.declare(10);
 
 ## Getting the app
 
-* `git clone `
+You're going to need node and npm, sorry.
+
+* `git clone https://github.com/AJFaraday/nose_poker.git`
+* `cd nose_poker`
+* `npm install`
 
 ## Writing a Client
 
-Here's the template for your client class:
+Here's the template for your client class, add it to a js file in `src/clients/working`
 
 ```js
 module.exports = class {
@@ -79,5 +83,24 @@ module.exports = class {
 };
 ```
 
+You can then modify the `play_hand()` function, remember it 
+must call `this.controller.declare(pokes)`. (You can also be knocked out of the
+game for failing to do this).
 
+When you're happy with it, run `./get_answers.sh` from the nose_poker root directory. This 
+will add your client to `/src/clients.js` (and also get the current set of clients from the
+Stack Exchange question). You only need to do this once.
 
+After the first time you can run games to see the result of modifying your code by calling
+`node script/play_game.js`.
+
+## Submitting your Client
+
+To add your client to the competition, answer this question. 
+
+* Name your ogre by including a title (h1, by starting the line with '#' or underlining it with '=' symbols)
+  * The name should only contain alpha characters and underscores, no spaces please.
+* Put the code in a code block. 
+* Please include a brief description of your ogre's strategy, and any other information you'd like to include.
+
+The app will then periodically pick up answers, run the game, and update the score table in this question.
