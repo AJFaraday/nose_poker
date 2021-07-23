@@ -78,7 +78,6 @@ class Game {
     this.active_ogres = this.active_ogres.sort((a, b) => {
       return b.np - a.np;
     });
-    this.all_the_same = this.lowest_bid == this.active_ogres[0].np;
     this.active_ogres.forEach((ogre, index) => {
       ogre.log_move();
     });
@@ -88,6 +87,10 @@ class Game {
     this.lowest_bid = Math.min(...this.active_ogres.map(ogre => {
       return ogre.pokes
     }));
+    this.highest_bid = Math.max(...this.active_ogres.map(ogre => {
+      return ogre.pokes
+    }));
+    this.all_the_same = (this.highest_bid == this.lowest_bid)
   }
 
   knock_out(ogre, reason) {
