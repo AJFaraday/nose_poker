@@ -3,6 +3,7 @@ module.exports = {
   'default/go_home': require('./clients/default/go_home.js'),
   'default/half_way': require('./clients/default/half_way.js'),
   'imported/dobromirm/_incremental_ogre': require('./clients/imported/dobromirm/_incremental_ogre.js'),
+  'imported/iceman76/_smart__median': require('./clients/imported/iceman76/_smart__median.js'),
   'imported/mousetail/_troll__adaptive': require('./clients/imported/mousetail/_troll__adaptive.js'),
   'imported/nurator/_adaptive__bot': require('./clients/imported/nurator/_adaptive__bot.js'),
   'imported/ovs/_exponential__ogre': require('./clients/imported/ovs/_exponential__ogre.js'),
