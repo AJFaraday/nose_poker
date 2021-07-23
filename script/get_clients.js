@@ -20,7 +20,7 @@ var files = getFiles(`${__dirname}/../src/clients/`);
 files.forEach((path) => {
   var parts = path.split('./src/clients/');
   var filename = parts[0];
-  var name = filename.split('.')[0];
+  var name = filename.split('.js')[0];
   string += `\n  '${name}': require('./clients/${path}'),`
 });
 string += "\n};"
