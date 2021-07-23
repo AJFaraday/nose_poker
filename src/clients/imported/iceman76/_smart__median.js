@@ -8,6 +8,7 @@ module.exports = class {
     // Beat the simple bots
     if(this.controller.hand_number() <= 5) {
         this.bid(this.controller.hand_number() + 1);
+        return;
     }
     var scores = this.other_scores();
     var bid = Math.floor(this.median(scores) / scores.length) + 1; // Add 1 to win once there's only 1 opponent left
