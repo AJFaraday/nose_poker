@@ -65,11 +65,13 @@ class Game {
       }
     });
     // The lowest bid is knocked out.
-    this.active_ogres.forEach(ogre => {
-      if (!this.all_the_same && ogre.active && ogre.pokes == this.lowest_bid) {
-        this.knock_out(ogre, "Cowardice!");
-      }
-    });
+    if(this.active_ogres.filter(ogre => {return ogre.active}).length > 1) {
+      this.active_ogres.forEach(ogre => {
+        if (!this.all_the_same && ogre.active && ogre.pokes == this.lowest_bid) {
+          this.knock_out(ogre, "Cowardice!");
+        }
+      });
+    }
     this.active_ogres.forEach(ogre => ogre.reached_hand = this.hand_number);
   }
 
