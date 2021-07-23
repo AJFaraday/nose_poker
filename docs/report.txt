@@ -57,8 +57,8 @@
 [5m Final Score:
 
 [0m Ogre                                   Hand  NP Reason
-[32m imported/dobromirm/_incremental_ogre      6  290 Cowardice!
-[0m imported/mousetail/_troll__adaptive       6   90 Winner!
+[32m imported/mousetail/_troll__adaptive       6   90 Winner!
+[0m imported/dobromirm/_incremental_ogre      6  290 Cowardice!
 [0m imported/nurator/_adaptive__bot           6    0 Has no nose
 [0m imported/user/_half-life                  5   16 Cowardice!
 [0m default/half_way                          5   16 Cowardice!
