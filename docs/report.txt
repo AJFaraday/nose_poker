@@ -33,14 +33,24 @@
 [31m default/half_way                        32 -  16 =  16
 [0m 2 remain
 
+[0m Hand 6
+[31m imported/user/_half-life                16 -   8 =   8
+[31m default/half_way                        16 -   8 =   8
+[0m 2 remain
+
+[0m Hand 7
+[31m default/half_way                         8 -   4 =   4
+[31m imported/user/_half-life                 8 -   8 =   0
+[0m 2 remain
+
 [5m Final Score:
 
 [0m Ogre                                   Hand  NP Reason
-[32m imported/user/_half-life                  5   16 Cowardice!
-[0m default/half_way                          5   16 Cowardice!
+[32m default/half_way                          7    4 Cowardice!
+[0m imported/user/_half-life                  7    0 Has no nose
 [0m default/go_big                            4    0 Has no nose
 [0m imported/redwolf_programs/_sinus-oidal    3  490 Cowardice!
 [0m imported/redwolf_programs/_dumb__ogre     2  496 Cowardice!
 [0m default/go_home                           1  499 Cowardice!
 
-Finished in 3ms
+Finished in 4ms
