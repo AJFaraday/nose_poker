@@ -5,14 +5,13 @@
 [0m imported/nurator/_adaptive__bot                        500 -   2 = 498
 [0m imported/ovs/_exponential__ogre                        500 -   2 = 498
 [0m imported/redwolf_programs/_sinus-oidal                 500 -   3 = 497
-[0m imported/redwolf_programs/_reverse__pinocchio          500 -   4 = 496
 [0m imported/redwolf_programs/_quicksort__ogre             500 -   4 = 496
 [0m imported/dobromirm/_incremental_ogre                   500 -  10 = 490
-[0m imported/redwolf_programs/_simple__optimization _thing 500 -  38 = 462
+[0m imported/redwolf_programs/_simple__optimization _thing 500 -  41 = 459
 [0m imported/user/_half-life                               500 - 250 = 250
 [0m default/half_way                                       500 - 250 = 250
 [0m default/go_big                                         500 - 450 =  50
-[0m 13 remain
+[0m 12 remain
 
 [0m Hand 2
 [31m imported/redwolf_programs/_dumb__ogre                  498 -   2 = 496
@@ -20,72 +19,66 @@
 [0m imported/ovs/_exponential__ogre                        498 -   4 = 494
 [0m imported/redwolf_programs/_sinus-oidal                 497 -   4 = 493
 [0m imported/redwolf_programs/_quicksort__ogre             496 -   5 = 491
-[0m imported/redwolf_programs/_reverse__pinocchio          496 -   8 = 488
 [0m imported/dobromirm/_incremental_ogre                   490 -  20 = 470
-[0m imported/redwolf_programs/_simple__optimization _thing 462 -   4 = 458
+[0m imported/redwolf_programs/_simple__optimization _thing 459 -   4 = 455
 [0m imported/nurator/_adaptive__bot                        498 - 101 = 397
 [0m imported/user/_half-life                               250 - 125 = 125
 [0m default/half_way                                       250 - 125 = 125
 [0m default/go_big                                          50 -  45 =   5
-[0m 12 remain
+[0m 11 remain
 
 [0m Hand 3
 [0m imported/redwolf_programs/_sinus-oidal                 493 -   3 = 490
 [0m imported/ovs/_exponential__ogre                        494 -   8 = 486
 [0m imported/redwolf_programs/_quicksort__ogre             491 -   7 = 484
-[0m imported/redwolf_programs/_reverse__pinocchio          488 -  16 = 472
-[31m imported/redwolf_programs/_simple__optimization _thing 458 -   1 = 457
+[31m imported/redwolf_programs/_simple__optimization _thing 455 -   1 = 454
 [0m imported/dobromirm/_incremental_ogre                   470 -  30 = 440
 [0m imported/mousetail/_troll__adaptive                    494 - 101 = 393
 [0m imported/nurator/_adaptive__bot                        397 - 101 = 296
 [0m imported/user/_half-life                               125 -  62 =  63
 [0m default/half_way                                       125 -  62 =  63
 [0m default/go_big                                           5 -   4 =   1
-[0m 11 remain
+[0m 10 remain
 
 [0m Hand 4
 [0m imported/redwolf_programs/_sinus-oidal                 490 -   2 = 488
 [0m imported/redwolf_programs/_quicksort__ogre             484 -  10 = 474
 [0m imported/ovs/_exponential__ogre                        486 -  16 = 470
-[0m imported/redwolf_programs/_reverse__pinocchio          472 -  32 = 440
 [0m imported/dobromirm/_incremental_ogre                   440 -  40 = 400
 [0m imported/mousetail/_troll__adaptive                    393 - 101 = 292
 [0m imported/nurator/_adaptive__bot                        296 - 101 = 195
 [0m imported/user/_half-life                                63 -  31 =  32
 [0m default/half_way                                        63 -  31 =  32
 [31m default/go_big                                           1 -   1 =   0
-[0m 10 remain
+[0m 9 remain
 
 [0m Hand 5
 [31m imported/redwolf_programs/_sinus-oidal                 488 -   1 = 487
 [0m imported/redwolf_programs/_quicksort__ogre             474 -  12 = 462
 [0m imported/ovs/_exponential__ogre                        470 -  32 = 438
-[0m imported/redwolf_programs/_reverse__pinocchio          440 -  64 = 376
 [0m imported/dobromirm/_incremental_ogre                   400 -  50 = 350
 [0m imported/mousetail/_troll__adaptive                    292 - 101 = 191
 [0m imported/nurator/_adaptive__bot                        195 - 101 =  94
 [0m imported/user/_half-life                                32 -  16 =  16
 [0m default/half_way                                        32 -  16 =  16
-[0m 9 remain
+[0m 8 remain
 
 [0m Hand 6
 [0m imported/redwolf_programs/_quicksort__ogre             462 -  15 = 447
 [0m imported/ovs/_exponential__ogre                        438 -  64 = 374
 [0m imported/dobromirm/_incremental_ogre                   350 -  60 = 290
-[0m imported/redwolf_programs/_reverse__pinocchio          376 - 128 = 248
 [0m imported/mousetail/_troll__adaptive                    191 - 101 =  90
 [31m imported/user/_half-life                                16 -   8 =   8
 [31m default/half_way                                        16 -   8 =   8
 [31m imported/nurator/_adaptive__bot                         94 -  94 =   0
-[0m 8 remain
+[0m 7 remain
 
 [0m Hand 7
 [31m imported/redwolf_programs/_quicksort__ogre             447 -  18 = 429
 [0m imported/ovs/_exponential__ogre                        374 - 128 = 246
 [0m imported/dobromirm/_incremental_ogre                   290 -  70 = 220
-[31m imported/redwolf_programs/_reverse__pinocchio          248 - 248 =   0
 [31m imported/mousetail/_troll__adaptive                     90 -  90 =   0
-[0m 5 remain
+[0m 4 remain
 
 [0m Hand 8
 [31m imported/dobromirm/_incremental_ogre                   220 -  80 = 140
@@ -98,13 +91,12 @@
 [32m imported/dobromirm/_incremental_ogre                      8  140 Winner!
 [0m imported/ovs/_exponential__ogre                           8    0 Has no nose
 [0m imported/redwolf_programs/_quicksort__ogre                7  429 Cowardice!
-[0m imported/redwolf_programs/_reverse__pinocchio             7    0 Has no nose
 [0m imported/mousetail/_troll__adaptive                       7    0 Has no nose
 [0m imported/user/_half-life                                  6    8 Cowardice!
 [0m default/half_way                                          6    8 Cowardice!
 [0m imported/nurator/_adaptive__bot                           6    0 Has no nose
 [0m imported/redwolf_programs/_sinus-oidal                    5  487 Cowardice!
 [0m default/go_big                                            4    0 Has no nose
-[0m imported/redwolf_programs/_simple__optimization _thing    3  457 Cowardice!
+[0m imported/redwolf_programs/_simple__optimization _thing    3  454 Cowardice!
 [0m imported/redwolf_programs/_dumb__ogre                     2  496 Cowardice!
 [0m default/go_home                                           1  499 Cowardice!
