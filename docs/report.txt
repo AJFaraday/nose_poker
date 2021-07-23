@@ -43,4 +43,4 @@
 [0m imported/redwolf_programs/_dumb__ogre     2  496 Cowardice!
 [0m default/go_home                           1  499 Cowardice!
 
-Finished in 4ms
+Finished in 3ms
