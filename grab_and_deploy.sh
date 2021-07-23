@@ -7,6 +7,7 @@ node script/fetch_answers.js
 node script/get_clients.js
 echo "Running tournament"
 node script/play_game.js > docs/report.txt
+cat docs/report.txt
 echo "Deploying to git"
 git add src/clients/*
 now=`date '+%F_%H:%M:%S'`;
