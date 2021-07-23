@@ -34,7 +34,11 @@ class AnswerFetcher {
   save_answer(answer) {
     var filename = answer.title.replace(/([A-Z])/g, "_$1").toLowerCase().replace(' ', '_');
     var folder_path = `${__dirname}/../clients/imported/${answer.username}`
-    FS.mkdirSync(folder_path);
+    try {
+      FS.mkdirSync(folder_path);
+    } catch (er) {
+      console.log('No need to create folder')
+    }
     var code = answer.code;
     if (!code.includes('module.exports =')) {
       code = `module.exports = ${code}`;
