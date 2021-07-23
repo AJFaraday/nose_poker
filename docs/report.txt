@@ -1,5 +1,5 @@
 [0m Hand 1
-[31m default/go_home                        500 -   1 = 499
+[0m default/go_home                        500 -   1 = 499
 [0m imported/redwolf_programs/_dumb__ogre  500 -   2 = 498
 [0m imported/redwolf_programs/_sinus-oidal 500 -   3 = 497
 [0m imported/user/_half-life               500 - 250 = 250
@@ -8,47 +8,1523 @@
 [0m 6 remain
 
 [0m Hand 2
-[31m imported/redwolf_programs/_dumb__ogre  498 -   2 = 496
+[0m default/go_home                        499 -   1 = 498
+[0m imported/redwolf_programs/_dumb__ogre  498 -   2 = 496
 [0m imported/redwolf_programs/_sinus-oidal 497 -   4 = 493
 [0m imported/user/_half-life               250 - 125 = 125
 [0m default/half_way                       250 - 125 = 125
 [0m default/go_big                          50 -  45 =   5
-[0m 5 remain
+[0m 6 remain
 
 [0m Hand 3
-[31m imported/redwolf_programs/_sinus-oidal 493 -   3 = 490
+[0m default/go_home                        498 -   1 = 497
+[0m imported/redwolf_programs/_dumb__ogre  496 -   2 = 494
+[0m imported/redwolf_programs/_sinus-oidal 493 -   3 = 490
 [0m imported/user/_half-life               125 -  62 =  63
 [0m default/half_way                       125 -  62 =  63
 [0m default/go_big                           5 -   4 =   1
-[0m 4 remain
+[0m 6 remain
 
 [0m Hand 4
+[0m default/go_home                        497 -   1 = 496
+[0m imported/redwolf_programs/_dumb__ogre  494 -   2 = 492
+[0m imported/redwolf_programs/_sinus-oidal 490 -   2 = 488
 [0m imported/user/_half-life                63 -  31 =  32
 [0m default/half_way                        63 -  31 =  32
 [31m default/go_big                           1 -   1 =   0
-[0m 3 remain
+[0m 6 remain
 
 [0m Hand 5
+[0m default/go_home                        496 -   1 = 495
+[0m imported/redwolf_programs/_dumb__ogre  492 -   2 = 490
+[0m imported/redwolf_programs/_sinus-oidal 488 -   1 = 487
 [0m imported/user/_half-life                32 -  16 =  16
 [0m default/half_way                        32 -  16 =  16
-[0m 2 remain
+[0m 5 remain
 
 [0m Hand 6
+[0m default/go_home                        495 -   1 = 494
+[0m imported/redwolf_programs/_dumb__ogre  490 -   2 = 488
+[0m imported/redwolf_programs/_sinus-oidal 487 -   1 = 486
 [0m imported/user/_half-life                16 -   8 =   8
 [0m default/half_way                        16 -   8 =   8
-[0m 2 remain
+[0m 5 remain
 
 [0m Hand 7
+[0m default/go_home                        494 -   1 = 493
+[0m imported/redwolf_programs/_dumb__ogre  488 -   2 = 486
+[0m imported/redwolf_programs/_sinus-oidal 486 -   1 = 485
 [0m default/half_way                         8 -   4 =   4
 [31m imported/user/_half-life                 8 -   8 =   0
-[0m 2 remain
+[0m 5 remain
+
+[0m Hand 8
+[0m default/go_home                        493 -   1 = 492
+[0m imported/redwolf_programs/_dumb__ogre  486 -   2 = 484
+[0m imported/redwolf_programs/_sinus-oidal 485 -   1 = 484
+[0m default/half_way                         4 -   2 =   2
+[0m 4 remain
+
+[0m Hand 9
+[0m default/go_home                        492 -   1 = 491
+[0m imported/redwolf_programs/_dumb__ogre  484 -   2 = 482
+[0m imported/redwolf_programs/_sinus-oidal 484 -   3 = 481
+[0m default/half_way                         2 -   1 =   1
+[0m 4 remain
+
+[0m Hand 10
+[0m default/go_home                        491 -   1 = 490
+[0m imported/redwolf_programs/_dumb__ogre  482 -   2 = 480
+[0m imported/redwolf_programs/_sinus-oidal 481 -   4 = 477
+[31m default/half_way                         1 -   1 =   0
+[0m 4 remain
+
+[0m Hand 11
+[0m default/go_home                        490 -   1 = 489
+[0m imported/redwolf_programs/_dumb__ogre  480 -   2 = 478
+[0m imported/redwolf_programs/_sinus-oidal 477 -   3 = 474
+[0m 3 remain
+
+[0m Hand 12
+[0m default/go_home                        489 -   1 = 488
+[0m imported/redwolf_programs/_dumb__ogre  478 -   2 = 476
+[0m imported/redwolf_programs/_sinus-oidal 474 -   2 = 472
+[0m 3 remain
+
+[0m Hand 13
+[0m default/go_home                        488 -   1 = 487
+[0m imported/redwolf_programs/_dumb__ogre  476 -   2 = 474
+[0m imported/redwolf_programs/_sinus-oidal 472 -   1 = 471
+[0m 3 remain
+
+[0m Hand 14
+[0m default/go_home                        487 -   1 = 486
+[0m imported/redwolf_programs/_dumb__ogre  474 -   2 = 472
+[0m imported/redwolf_programs/_sinus-oidal 471 -   1 = 470
+[0m 3 remain
+
+[0m Hand 15
+[0m default/go_home                        486 -   1 = 485
+[0m imported/redwolf_programs/_dumb__ogre  472 -   2 = 470
+[0m imported/redwolf_programs/_sinus-oidal 470 -   1 = 469
+[0m 3 remain
+
+[0m Hand 16
+[0m default/go_home                        485 -   1 = 484
+[0m imported/redwolf_programs/_dumb__ogre  470 -   2 = 468
+[0m imported/redwolf_programs/_sinus-oidal 469 -   1 = 468
+[0m 3 remain
+
+[0m Hand 17
+[0m default/go_home                        484 -   1 = 483
+[0m imported/redwolf_programs/_dumb__ogre  468 -   2 = 466
+[0m imported/redwolf_programs/_sinus-oidal 468 -   3 = 465
+[0m 3 remain
+
+[0m Hand 18
+[0m default/go_home                        483 -   1 = 482
+[0m imported/redwolf_programs/_dumb__ogre  466 -   2 = 464
+[0m imported/redwolf_programs/_sinus-oidal 465 -   4 = 461
+[0m 3 remain
+
+[0m Hand 19
+[0m default/go_home                        482 -   1 = 481
+[0m imported/redwolf_programs/_dumb__ogre  464 -   2 = 462
+[0m imported/redwolf_programs/_sinus-oidal 461 -   3 = 458
+[0m 3 remain
+
+[0m Hand 20
+[0m default/go_home                        481 -   1 = 480
+[0m imported/redwolf_programs/_dumb__ogre  462 -   2 = 460
+[0m imported/redwolf_programs/_sinus-oidal 458 -   2 = 456
+[0m 3 remain
+
+[0m Hand 21
+[0m default/go_home                        480 -   1 = 479
+[0m imported/redwolf_programs/_dumb__ogre  460 -   2 = 458
+[0m imported/redwolf_programs/_sinus-oidal 456 -   1 = 455
+[0m 3 remain
+
+[0m Hand 22
+[0m default/go_home                        479 -   1 = 478
+[0m imported/redwolf_programs/_dumb__ogre  458 -   2 = 456
+[0m imported/redwolf_programs/_sinus-oidal 455 -   1 = 454
+[0m 3 remain
+
+[0m Hand 23
+[0m default/go_home                        478 -   1 = 477
+[0m imported/redwolf_programs/_dumb__ogre  456 -   2 = 454
+[0m imported/redwolf_programs/_sinus-oidal 454 -   1 = 453
+[0m 3 remain
+
+[0m Hand 24
+[0m default/go_home                        477 -   1 = 476
+[0m imported/redwolf_programs/_dumb__ogre  454 -   2 = 452
+[0m imported/redwolf_programs/_sinus-oidal 453 -   1 = 452
+[0m 3 remain
+
+[0m Hand 25
+[0m default/go_home                        476 -   1 = 475
+[0m imported/redwolf_programs/_dumb__ogre  452 -   2 = 450
+[0m imported/redwolf_programs/_sinus-oidal 452 -   3 = 449
+[0m 3 remain
+
+[0m Hand 26
+[0m default/go_home                        475 -   1 = 474
+[0m imported/redwolf_programs/_dumb__ogre  450 -   2 = 448
+[0m imported/redwolf_programs/_sinus-oidal 449 -   4 = 445
+[0m 3 remain
+
+[0m Hand 27
+[0m default/go_home                        474 -   1 = 473
+[0m imported/redwolf_programs/_dumb__ogre  448 -   2 = 446
+[0m imported/redwolf_programs/_sinus-oidal 445 -   3 = 442
+[0m 3 remain
+
+[0m Hand 28
+[0m default/go_home                        473 -   1 = 472
+[0m imported/redwolf_programs/_dumb__ogre  446 -   2 = 444
+[0m imported/redwolf_programs/_sinus-oidal 442 -   2 = 440
+[0m 3 remain
+
+[0m Hand 29
+[0m default/go_home                        472 -   1 = 471
+[0m imported/redwolf_programs/_dumb__ogre  444 -   2 = 442
+[0m imported/redwolf_programs/_sinus-oidal 440 -   1 = 439
+[0m 3 remain
+
+[0m Hand 30
+[0m default/go_home                        471 -   1 = 470
+[0m imported/redwolf_programs/_dumb__ogre  442 -   2 = 440
+[0m imported/redwolf_programs/_sinus-oidal 439 -   1 = 438
+[0m 3 remain
+
+[0m Hand 31
+[0m default/go_home                        470 -   1 = 469
+[0m imported/redwolf_programs/_dumb__ogre  440 -   2 = 438
+[0m imported/redwolf_programs/_sinus-oidal 438 -   1 = 437
+[0m 3 remain
+
+[0m Hand 32
+[0m default/go_home                        469 -   1 = 468
+[0m imported/redwolf_programs/_dumb__ogre  438 -   2 = 436
+[0m imported/redwolf_programs/_sinus-oidal 437 -   1 = 436
+[0m 3 remain
+
+[0m Hand 33
+[0m default/go_home                        468 -   1 = 467
+[0m imported/redwolf_programs/_dumb__ogre  436 -   2 = 434
+[0m imported/redwolf_programs/_sinus-oidal 436 -   3 = 433
+[0m 3 remain
+
+[0m Hand 34
+[0m default/go_home                        467 -   1 = 466
+[0m imported/redwolf_programs/_dumb__ogre  434 -   2 = 432
+[0m imported/redwolf_programs/_sinus-oidal 433 -   4 = 429
+[0m 3 remain
+
+[0m Hand 35
+[0m default/go_home                        466 -   1 = 465
+[0m imported/redwolf_programs/_dumb__ogre  432 -   2 = 430
+[0m imported/redwolf_programs/_sinus-oidal 429 -   3 = 426
+[0m 3 remain
+
+[0m Hand 36
+[0m default/go_home                        465 -   1 = 464
+[0m imported/redwolf_programs/_dumb__ogre  430 -   2 = 428
+[0m imported/redwolf_programs/_sinus-oidal 426 -   2 = 424
+[0m 3 remain
+
+[0m Hand 37
+[0m default/go_home                        464 -   1 = 463
+[0m imported/redwolf_programs/_dumb__ogre  428 -   2 = 426
+[0m imported/redwolf_programs/_sinus-oidal 424 -   1 = 423
+[0m 3 remain
+
+[0m Hand 38
+[0m default/go_home                        463 -   1 = 462
+[0m imported/redwolf_programs/_dumb__ogre  426 -   2 = 424
+[0m imported/redwolf_programs/_sinus-oidal 423 -   1 = 422
+[0m 3 remain
+
+[0m Hand 39
+[0m default/go_home                        462 -   1 = 461
+[0m imported/redwolf_programs/_dumb__ogre  424 -   2 = 422
+[0m imported/redwolf_programs/_sinus-oidal 422 -   1 = 421
+[0m 3 remain
+
+[0m Hand 40
+[0m default/go_home                        461 -   1 = 460
+[0m imported/redwolf_programs/_dumb__ogre  422 -   2 = 420
+[0m imported/redwolf_programs/_sinus-oidal 421 -   1 = 420
+[0m 3 remain
+
+[0m Hand 41
+[0m default/go_home                        460 -   1 = 459
+[0m imported/redwolf_programs/_dumb__ogre  420 -   2 = 418
+[0m imported/redwolf_programs/_sinus-oidal 420 -   3 = 417
+[0m 3 remain
+
+[0m Hand 42
+[0m default/go_home                        459 -   1 = 458
+[0m imported/redwolf_programs/_dumb__ogre  418 -   2 = 416
+[0m imported/redwolf_programs/_sinus-oidal 417 -   4 = 413
+[0m 3 remain
+
+[0m Hand 43
+[0m default/go_home                        458 -   1 = 457
+[0m imported/redwolf_programs/_dumb__ogre  416 -   2 = 414
+[0m imported/redwolf_programs/_sinus-oidal 413 -   3 = 410
+[0m 3 remain
+
+[0m Hand 44
+[0m default/go_home                        457 -   1 = 456
+[0m imported/redwolf_programs/_dumb__ogre  414 -   2 = 412
+[0m imported/redwolf_programs/_sinus-oidal 410 -   2 = 408
+[0m 3 remain
+
+[0m Hand 45
+[0m default/go_home                        456 -   1 = 455
+[0m imported/redwolf_programs/_dumb__ogre  412 -   2 = 410
+[0m imported/redwolf_programs/_sinus-oidal 408 -   1 = 407
+[0m 3 remain
+
+[0m Hand 46
+[0m default/go_home                        455 -   1 = 454
+[0m imported/redwolf_programs/_dumb__ogre  410 -   2 = 408
+[0m imported/redwolf_programs/_sinus-oidal 407 -   1 = 406
+[0m 3 remain
+
+[0m Hand 47
+[0m default/go_home                        454 -   1 = 453
+[0m imported/redwolf_programs/_dumb__ogre  408 -   2 = 406
+[0m imported/redwolf_programs/_sinus-oidal 406 -   1 = 405
+[0m 3 remain
+
+[0m Hand 48
+[0m default/go_home                        453 -   1 = 452
+[0m imported/redwolf_programs/_dumb__ogre  406 -   2 = 404
+[0m imported/redwolf_programs/_sinus-oidal 405 -   1 = 404
+[0m 3 remain
+
+[0m Hand 49
+[0m default/go_home                        452 -   1 = 451
+[0m imported/redwolf_programs/_dumb__ogre  404 -   2 = 402
+[0m imported/redwolf_programs/_sinus-oidal 404 -   3 = 401
+[0m 3 remain
+
+[0m Hand 50
+[0m default/go_home                        451 -   1 = 450
+[0m imported/redwolf_programs/_dumb__ogre  402 -   2 = 400
+[0m imported/redwolf_programs/_sinus-oidal 401 -   4 = 397
+[0m 3 remain
+
+[0m Hand 51
+[0m default/go_home                        450 -   1 = 449
+[0m imported/redwolf_programs/_dumb__ogre  400 -   2 = 398
+[0m imported/redwolf_programs/_sinus-oidal 397 -   3 = 394
+[0m 3 remain
+
+[0m Hand 52
+[0m default/go_home                        449 -   1 = 448
+[0m imported/redwolf_programs/_dumb__ogre  398 -   2 = 396
+[0m imported/redwolf_programs/_sinus-oidal 394 -   1 = 393
+[0m 3 remain
+
+[0m Hand 53
+[0m default/go_home                        448 -   1 = 447
+[0m imported/redwolf_programs/_dumb__ogre  396 -   2 = 394
+[0m imported/redwolf_programs/_sinus-oidal 393 -   1 = 392
+[0m 3 remain
+
+[0m Hand 54
+[0m default/go_home                        447 -   1 = 446
+[0m imported/redwolf_programs/_dumb__ogre  394 -   2 = 392
+[0m imported/redwolf_programs/_sinus-oidal 392 -   1 = 391
+[0m 3 remain
+
+[0m Hand 55
+[0m default/go_home                        446 -   1 = 445
+[0m imported/redwolf_programs/_dumb__ogre  392 -   2 = 390
+[0m imported/redwolf_programs/_sinus-oidal 391 -   1 = 390
+[0m 3 remain
+
+[0m Hand 56
+[0m default/go_home                        445 -   1 = 444
+[0m imported/redwolf_programs/_sinus-oidal 390 -   1 = 389
+[0m imported/redwolf_programs/_dumb__ogre  390 -   2 = 388
+[0m 3 remain
+
+[0m Hand 57
+[0m default/go_home                        444 -   1 = 443
+[0m imported/redwolf_programs/_sinus-oidal 389 -   3 = 386
+[0m imported/redwolf_programs/_dumb__ogre  388 -   2 = 386
+[0m 3 remain
+
+[0m Hand 58
+[0m default/go_home                        443 -   1 = 442
+[0m imported/redwolf_programs/_dumb__ogre  386 -   2 = 384
+[0m imported/redwolf_programs/_sinus-oidal 386 -   4 = 382
+[0m 3 remain
+
+[0m Hand 59
+[0m default/go_home                        442 -   1 = 441
+[0m imported/redwolf_programs/_dumb__ogre  384 -   2 = 382
+[0m imported/redwolf_programs/_sinus-oidal 382 -   3 = 379
+[0m 3 remain
+
+[0m Hand 60
+[0m default/go_home                        441 -   1 = 440
+[0m imported/redwolf_programs/_dumb__ogre  382 -   2 = 380
+[0m imported/redwolf_programs/_sinus-oidal 379 -   2 = 377
+[0m 3 remain
+
+[0m Hand 61
+[0m default/go_home                        440 -   1 = 439
+[0m imported/redwolf_programs/_dumb__ogre  380 -   2 = 378
+[0m imported/redwolf_programs/_sinus-oidal 377 -   1 = 376
+[0m 3 remain
+
+[0m Hand 62
+[0m default/go_home                        439 -   1 = 438
+[0m imported/redwolf_programs/_dumb__ogre  378 -   2 = 376
+[0m imported/redwolf_programs/_sinus-oidal 376 -   1 = 375
+[0m 3 remain
+
+[0m Hand 63
+[0m default/go_home                        438 -   1 = 437
+[0m imported/redwolf_programs/_dumb__ogre  376 -   2 = 374
+[0m imported/redwolf_programs/_sinus-oidal 375 -   1 = 374
+[0m 3 remain
+
+[0m Hand 64
+[0m default/go_home                        437 -   1 = 436
+[0m imported/redwolf_programs/_sinus-oidal 374 -   1 = 373
+[0m imported/redwolf_programs/_dumb__ogre  374 -   2 = 372
+[0m 3 remain
+
+[0m Hand 65
+[0m default/go_home                        436 -   1 = 435
+[0m imported/redwolf_programs/_sinus-oidal 373 -   3 = 370
+[0m imported/redwolf_programs/_dumb__ogre  372 -   2 = 370
+[0m 3 remain
+
+[0m Hand 66
+[0m default/go_home                        435 -   1 = 434
+[0m imported/redwolf_programs/_dumb__ogre  370 -   2 = 368
+[0m imported/redwolf_programs/_sinus-oidal 370 -   4 = 366
+[0m 3 remain
+
+[0m Hand 67
+[0m default/go_home                        434 -   1 = 433
+[0m imported/redwolf_programs/_dumb__ogre  368 -   2 = 366
+[0m imported/redwolf_programs/_sinus-oidal 366 -   3 = 363
+[0m 3 remain
+
+[0m Hand 68
+[0m default/go_home                        433 -   1 = 432
+[0m imported/redwolf_programs/_dumb__ogre  366 -   2 = 364
+[0m imported/redwolf_programs/_sinus-oidal 363 -   1 = 362
+[0m 3 remain
+
+[0m Hand 69
+[0m default/go_home                        432 -   1 = 431
+[0m imported/redwolf_programs/_dumb__ogre  364 -   2 = 362
+[0m imported/redwolf_programs/_sinus-oidal 362 -   1 = 361
+[0m 3 remain
+
+[0m Hand 70
+[0m default/go_home                        431 -   1 = 430
+[0m imported/redwolf_programs/_dumb__ogre  362 -   2 = 360
+[0m imported/redwolf_programs/_sinus-oidal 361 -   1 = 360
+[0m 3 remain
+
+[0m Hand 71
+[0m default/go_home                        430 -   1 = 429
+[0m imported/redwolf_programs/_sinus-oidal 360 -   1 = 359
+[0m imported/redwolf_programs/_dumb__ogre  360 -   2 = 358
+[0m 3 remain
+
+[0m Hand 72
+[0m default/go_home                        429 -   1 = 428
+[0m imported/redwolf_programs/_sinus-oidal 359 -   1 = 358
+[0m imported/redwolf_programs/_dumb__ogre  358 -   2 = 356
+[0m 3 remain
+
+[0m Hand 73
+[0m default/go_home                        428 -   1 = 427
+[0m imported/redwolf_programs/_sinus-oidal 358 -   3 = 355
+[0m imported/redwolf_programs/_dumb__ogre  356 -   2 = 354
+[0m 3 remain
+
+[0m Hand 74
+[0m default/go_home                        427 -   1 = 426
+[0m imported/redwolf_programs/_dumb__ogre  354 -   2 = 352
+[0m imported/redwolf_programs/_sinus-oidal 355 -   4 = 351
+[0m 3 remain
+
+[0m Hand 75
+[0m default/go_home                        426 -   1 = 425
+[0m imported/redwolf_programs/_dumb__ogre  352 -   2 = 350
+[0m imported/redwolf_programs/_sinus-oidal 351 -   3 = 348
+[0m 3 remain
+
+[0m Hand 76
+[0m default/go_home                        425 -   1 = 424
+[0m imported/redwolf_programs/_dumb__ogre  350 -   2 = 348
+[0m imported/redwolf_programs/_sinus-oidal 348 -   2 = 346
+[0m 3 remain
+
+[0m Hand 77
+[0m default/go_home                        424 -   1 = 423
+[0m imported/redwolf_programs/_dumb__ogre  348 -   2 = 346
+[0m imported/redwolf_programs/_sinus-oidal 346 -   1 = 345
+[0m 3 remain
+
+[0m Hand 78
+[0m default/go_home                        423 -   1 = 422
+[0m imported/redwolf_programs/_dumb__ogre  346 -   2 = 344
+[0m imported/redwolf_programs/_sinus-oidal 345 -   1 = 344
+[0m 3 remain
+
+[0m Hand 79
+[0m default/go_home                        422 -   1 = 421
+[0m imported/redwolf_programs/_sinus-oidal 344 -   1 = 343
+[0m imported/redwolf_programs/_dumb__ogre  344 -   2 = 342
+[0m 3 remain
+
+[0m Hand 80
+[0m default/go_home                        421 -   1 = 420
+[0m imported/redwolf_programs/_sinus-oidal 343 -   1 = 342
+[0m imported/redwolf_programs/_dumb__ogre  342 -   2 = 340
+[0m 3 remain
+
+[0m Hand 81
+[0m default/go_home                        420 -   1 = 419
+[0m imported/redwolf_programs/_sinus-oidal 342 -   3 = 339
+[0m imported/redwolf_programs/_dumb__ogre  340 -   2 = 338
+[0m 3 remain
+
+[0m Hand 82
+[0m default/go_home                        419 -   1 = 418
+[0m imported/redwolf_programs/_dumb__ogre  338 -   2 = 336
+[0m imported/redwolf_programs/_sinus-oidal 339 -   4 = 335
+[0m 3 remain
+
+[0m Hand 83
+[0m default/go_home                        418 -   1 = 417
+[0m imported/redwolf_programs/_dumb__ogre  336 -   2 = 334
+[0m imported/redwolf_programs/_sinus-oidal 335 -   3 = 332
+[0m 3 remain
+
+[0m Hand 84
+[0m default/go_home                        417 -   1 = 416
+[0m imported/redwolf_programs/_dumb__ogre  334 -   2 = 332
+[0m imported/redwolf_programs/_sinus-oidal 332 -   1 = 331
+[0m 3 remain
+
+[0m Hand 85
+[0m default/go_home                        416 -   1 = 415
+[0m imported/redwolf_programs/_dumb__ogre  332 -   2 = 330
+[0m imported/redwolf_programs/_sinus-oidal 331 -   1 = 330
+[0m 3 remain
+
+[0m Hand 86
+[0m default/go_home                        415 -   1 = 414
+[0m imported/redwolf_programs/_sinus-oidal 330 -   1 = 329
+[0m imported/redwolf_programs/_dumb__ogre  330 -   2 = 328
+[0m 3 remain
+
+[0m Hand 87
+[0m default/go_home                        414 -   1 = 413
+[0m imported/redwolf_programs/_sinus-oidal 329 -   1 = 328
+[0m imported/redwolf_programs/_dumb__ogre  328 -   2 = 326
+[0m 3 remain
+
+[0m Hand 88
+[0m default/go_home                        413 -   1 = 412
+[0m imported/redwolf_programs/_sinus-oidal 328 -   1 = 327
+[0m imported/redwolf_programs/_dumb__ogre  326 -   2 = 324
+[0m 3 remain
+
+[0m Hand 89
+[0m default/go_home                        412 -   1 = 411
+[0m imported/redwolf_programs/_sinus-oidal 327 -   3 = 324
+[0m imported/redwolf_programs/_dumb__ogre  324 -   2 = 322
+[0m 3 remain
+
+[0m Hand 90
+[0m default/go_home                        411 -   1 = 410
+[0m imported/redwolf_programs/_sinus-oidal 324 -   4 = 320
+[0m imported/redwolf_programs/_dumb__ogre  322 -   2 = 320
+[0m 3 remain
+
+[0m Hand 91
+[0m default/go_home                        410 -   1 = 409
+[0m imported/redwolf_programs/_dumb__ogre  320 -   2 = 318
+[0m imported/redwolf_programs/_sinus-oidal 320 -   3 = 317
+[0m 3 remain
+
+[0m Hand 92
+[0m default/go_home                        409 -   1 = 408
+[0m imported/redwolf_programs/_dumb__ogre  318 -   2 = 316
+[0m imported/redwolf_programs/_sinus-oidal 317 -   2 = 315
+[0m 3 remain
+
+[0m Hand 93
+[0m default/go_home                        408 -   1 = 407
+[0m imported/redwolf_programs/_dumb__ogre  316 -   2 = 314
+[0m imported/redwolf_programs/_sinus-oidal 315 -   1 = 314
+[0m 3 remain
+
+[0m Hand 94
+[0m default/go_home                        407 -   1 = 406
+[0m imported/redwolf_programs/_sinus-oidal 314 -   1 = 313
+[0m imported/redwolf_programs/_dumb__ogre  314 -   2 = 312
+[0m 3 remain
+
+[0m Hand 95
+[0m default/go_home                        406 -   1 = 405
+[0m imported/redwolf_programs/_sinus-oidal 313 -   1 = 312
+[0m imported/redwolf_programs/_dumb__ogre  312 -   2 = 310
+[0m 3 remain
+
+[0m Hand 96
+[0m default/go_home                        405 -   1 = 404
+[0m imported/redwolf_programs/_sinus-oidal 312 -   1 = 311
+[0m imported/redwolf_programs/_dumb__ogre  310 -   2 = 308
+[0m 3 remain
+
+[0m Hand 97
+[0m default/go_home                        404 -   1 = 403
+[0m imported/redwolf_programs/_sinus-oidal 311 -   3 = 308
+[0m imported/redwolf_programs/_dumb__ogre  308 -   2 = 306
+[0m 3 remain
+
+[0m Hand 98
+[0m default/go_home                        403 -   1 = 402
+[0m imported/redwolf_programs/_sinus-oidal 308 -   4 = 304
+[0m imported/redwolf_programs/_dumb__ogre  306 -   2 = 304
+[0m 3 remain
+
+[0m Hand 99
+[0m default/go_home                        402 -   1 = 401
+[0m imported/redwolf_programs/_dumb__ogre  304 -   2 = 302
+[0m imported/redwolf_programs/_sinus-oidal 304 -   3 = 301
+[0m 3 remain
+
+[0m Hand 100
+[0m default/go_home                        401 -   1 = 400
+[0m imported/redwolf_programs/_dumb__ogre  302 -   2 = 300
+[0m imported/redwolf_programs/_sinus-oidal 301 -   1 = 300
+[0m 3 remain
+
+[0m Hand 101
+[0m default/go_home                        400 -   1 = 399
+[0m imported/redwolf_programs/_sinus-oidal 300 -   1 = 299
+[0m imported/redwolf_programs/_dumb__ogre  300 -   2 = 298
+[0m 3 remain
+
+[0m Hand 102
+[0m default/go_home                        399 -   1 = 398
+[0m imported/redwolf_programs/_sinus-oidal 299 -   1 = 298
+[0m imported/redwolf_programs/_dumb__ogre  298 -   2 = 296
+[0m 3 remain
+
+[0m Hand 103
+[0m default/go_home                        398 -   1 = 397
+[0m imported/redwolf_programs/_sinus-oidal 298 -   1 = 297
+[0m imported/redwolf_programs/_dumb__ogre  296 -   2 = 294
+[0m 3 remain
+
+[0m Hand 104
+[0m default/go_home                        397 -   1 = 396
+[0m imported/redwolf_programs/_sinus-oidal 297 -   2 = 295
+[0m imported/redwolf_programs/_dumb__ogre  294 -   2 = 292
+[0m 3 remain
+
+[0m Hand 105
+[0m default/go_home                        396 -   1 = 395
+[0m imported/redwolf_programs/_sinus-oidal 295 -   3 = 292
+[0m imported/redwolf_programs/_dumb__ogre  292 -   2 = 290
+[0m 3 remain
+
+[0m Hand 106
+[0m default/go_home                        395 -   1 = 394
+[0m imported/redwolf_programs/_sinus-oidal 292 -   4 = 288
+[0m imported/redwolf_programs/_dumb__ogre  290 -   2 = 288
+[0m 3 remain
+
+[0m Hand 107
+[0m default/go_home                        394 -   1 = 393
+[0m imported/redwolf_programs/_dumb__ogre  288 -   2 = 286
+[0m imported/redwolf_programs/_sinus-oidal 288 -   3 = 285
+[0m 3 remain
+
+[0m Hand 108
+[0m default/go_home                        393 -   1 = 392
+[0m imported/redwolf_programs/_dumb__ogre  286 -   2 = 284
+[0m imported/redwolf_programs/_sinus-oidal 285 -   2 = 283
+[0m 3 remain
+
+[0m Hand 109
+[0m default/go_home                        392 -   1 = 391
+[0m imported/redwolf_programs/_dumb__ogre  284 -   2 = 282
+[0m imported/redwolf_programs/_sinus-oidal 283 -   1 = 282
+[0m 3 remain
+
+[0m Hand 110
+[0m default/go_home                        391 -   1 = 390
+[0m imported/redwolf_programs/_sinus-oidal 282 -   1 = 281
+[0m imported/redwolf_programs/_dumb__ogre  282 -   2 = 280
+[0m 3 remain
+
+[0m Hand 111
+[0m default/go_home                        390 -   1 = 389
+[0m imported/redwolf_programs/_sinus-oidal 281 -   1 = 280
+[0m imported/redwolf_programs/_dumb__ogre  280 -   2 = 278
+[0m 3 remain
+
+[0m Hand 112
+[0m default/go_home                        389 -   1 = 388
+[0m imported/redwolf_programs/_sinus-oidal 280 -   1 = 279
+[0m imported/redwolf_programs/_dumb__ogre  278 -   2 = 276
+[0m 3 remain
+
+[0m Hand 113
+[0m default/go_home                        388 -   1 = 387
+[0m imported/redwolf_programs/_sinus-oidal 279 -   3 = 276
+[0m imported/redwolf_programs/_dumb__ogre  276 -   2 = 274
+[0m 3 remain
+
+[0m Hand 114
+[0m default/go_home                        387 -   1 = 386
+[0m imported/redwolf_programs/_sinus-oidal 276 -   4 = 272
+[0m imported/redwolf_programs/_dumb__ogre  274 -   2 = 272
+[0m 3 remain
+
+[0m Hand 115
+[0m default/go_home                        386 -   1 = 385
+[0m imported/redwolf_programs/_dumb__ogre  272 -   2 = 270
+[0m imported/redwolf_programs/_sinus-oidal 272 -   3 = 269
+[0m 3 remain
+
+[0m Hand 116
+[0m default/go_home                        385 -   1 = 384
+[0m imported/redwolf_programs/_dumb__ogre  270 -   2 = 268
+[0m imported/redwolf_programs/_sinus-oidal 269 -   2 = 267
+[0m 3 remain
+
+[0m Hand 117
+[0m default/go_home                        384 -   1 = 383
+[0m imported/redwolf_programs/_dumb__ogre  268 -   2 = 266
+[0m imported/redwolf_programs/_sinus-oidal 267 -   1 = 266
+[0m 3 remain
+
+[0m Hand 118
+[0m default/go_home                        383 -   1 = 382
+[0m imported/redwolf_programs/_sinus-oidal 266 -   1 = 265
+[0m imported/redwolf_programs/_dumb__ogre  266 -   2 = 264
+[0m 3 remain
+
+[0m Hand 119
+[0m default/go_home                        382 -   1 = 381
+[0m imported/redwolf_programs/_sinus-oidal 265 -   1 = 264
+[0m imported/redwolf_programs/_dumb__ogre  264 -   2 = 262
+[0m 3 remain
+
+[0m Hand 120
+[0m default/go_home                        381 -   1 = 380
+[0m imported/redwolf_programs/_sinus-oidal 264 -   1 = 263
+[0m imported/redwolf_programs/_dumb__ogre  262 -   2 = 260
+[0m 3 remain
+
+[0m Hand 121
+[0m default/go_home                        380 -   1 = 379
+[0m imported/redwolf_programs/_sinus-oidal 263 -   3 = 260
+[0m imported/redwolf_programs/_dumb__ogre  260 -   2 = 258
+[0m 3 remain
+
+[0m Hand 122
+[0m default/go_home                        379 -   1 = 378
+[0m imported/redwolf_programs/_sinus-oidal 260 -   4 = 256
+[0m imported/redwolf_programs/_dumb__ogre  258 -   2 = 256
+[0m 3 remain
+
+[0m Hand 123
+[0m default/go_home                        378 -   1 = 377
+[0m imported/redwolf_programs/_dumb__ogre  256 -   2 = 254
+[0m imported/redwolf_programs/_sinus-oidal 256 -   3 = 253
+[0m 3 remain
+
+[0m Hand 124
+[0m default/go_home                        377 -   1 = 376
+[0m imported/redwolf_programs/_dumb__ogre  254 -   2 = 252
+[0m imported/redwolf_programs/_sinus-oidal 253 -   2 = 251
+[0m 3 remain
+
+[0m Hand 125
+[0m default/go_home                        376 -   1 = 375
+[0m imported/redwolf_programs/_dumb__ogre  252 -   2 = 250
+[0m imported/redwolf_programs/_sinus-oidal 251 -   1 = 250
+[0m 3 remain
+
+[0m Hand 126
+[0m default/go_home                        375 -   1 = 374
+[0m imported/redwolf_programs/_sinus-oidal 250 -   1 = 249
+[0m imported/redwolf_programs/_dumb__ogre  250 -   2 = 248
+[0m 3 remain
+
+[0m Hand 127
+[0m default/go_home                        374 -   1 = 373
+[0m imported/redwolf_programs/_sinus-oidal 249 -   1 = 248
+[0m imported/redwolf_programs/_dumb__ogre  248 -   2 = 246
+[0m 3 remain
+
+[0m Hand 128
+[0m default/go_home                        373 -   1 = 372
+[0m imported/redwolf_programs/_sinus-oidal 248 -   1 = 247
+[0m imported/redwolf_programs/_dumb__ogre  246 -   2 = 244
+[0m 3 remain
+
+[0m Hand 129
+[0m default/go_home                        372 -   1 = 371
+[0m imported/redwolf_programs/_sinus-oidal 247 -   3 = 244
+[0m imported/redwolf_programs/_dumb__ogre  244 -   2 = 242
+[0m 3 remain
+
+[0m Hand 130
+[0m default/go_home                        371 -   1 = 370
+[0m imported/redwolf_programs/_sinus-oidal 244 -   4 = 240
+[0m imported/redwolf_programs/_dumb__ogre  242 -   2 = 240
+[0m 3 remain
+
+[0m Hand 131
+[0m default/go_home                        370 -   1 = 369
+[0m imported/redwolf_programs/_dumb__ogre  240 -   2 = 238
+[0m imported/redwolf_programs/_sinus-oidal 240 -   3 = 237
+[0m 3 remain
+
+[0m Hand 132
+[0m default/go_home                        369 -   1 = 368
+[0m imported/redwolf_programs/_dumb__ogre  238 -   2 = 236
+[0m imported/redwolf_programs/_sinus-oidal 237 -   2 = 235
+[0m 3 remain
+
+[0m Hand 133
+[0m default/go_home                        368 -   1 = 367
+[0m imported/redwolf_programs/_dumb__ogre  236 -   2 = 234
+[0m imported/redwolf_programs/_sinus-oidal 235 -   1 = 234
+[0m 3 remain
+
+[0m Hand 134
+[0m default/go_home                        367 -   1 = 366
+[0m imported/redwolf_programs/_sinus-oidal 234 -   1 = 233
+[0m imported/redwolf_programs/_dumb__ogre  234 -   2 = 232
+[0m 3 remain
+
+[0m Hand 135
+[0m default/go_home                        366 -   1 = 365
+[0m imported/redwolf_programs/_sinus-oidal 233 -   1 = 232
+[0m imported/redwolf_programs/_dumb__ogre  232 -   2 = 230
+[0m 3 remain
+
+[0m Hand 136
+[0m default/go_home                        365 -   1 = 364
+[0m imported/redwolf_programs/_sinus-oidal 232 -   2 = 230
+[0m imported/redwolf_programs/_dumb__ogre  230 -   2 = 228
+[0m 3 remain
+
+[0m Hand 137
+[0m default/go_home                        364 -   1 = 363
+[0m imported/redwolf_programs/_sinus-oidal 230 -   3 = 227
+[0m imported/redwolf_programs/_dumb__ogre  228 -   2 = 226
+[0m 3 remain
+
+[0m Hand 138
+[0m default/go_home                        363 -   1 = 362
+[0m imported/redwolf_programs/_dumb__ogre  226 -   2 = 224
+[0m imported/redwolf_programs/_sinus-oidal 227 -   4 = 223
+[0m 3 remain
+
+[0m Hand 139
+[0m default/go_home                        362 -   1 = 361
+[0m imported/redwolf_programs/_dumb__ogre  224 -   2 = 222
+[0m imported/redwolf_programs/_sinus-oidal 223 -   3 = 220
+[0m 3 remain
+
+[0m Hand 140
+[0m default/go_home                        361 -   1 = 360
+[0m imported/redwolf_programs/_dumb__ogre  222 -   2 = 220
+[0m imported/redwolf_programs/_sinus-oidal 220 -   2 = 218
+[0m 3 remain
+
+[0m Hand 141
+[0m default/go_home                        360 -   1 = 359
+[0m imported/redwolf_programs/_dumb__ogre  220 -   2 = 218
+[0m imported/redwolf_programs/_sinus-oidal 218 -   1 = 217
+[0m 3 remain
+
+[0m Hand 142
+[0m default/go_home                        359 -   1 = 358
+[0m imported/redwolf_programs/_dumb__ogre  218 -   2 = 216
+[0m imported/redwolf_programs/_sinus-oidal 217 -   1 = 216
+[0m 3 remain
+
+[0m Hand 143
+[0m default/go_home                        358 -   1 = 357
+[0m imported/redwolf_programs/_sinus-oidal 216 -   1 = 215
+[0m imported/redwolf_programs/_dumb__ogre  216 -   2 = 214
+[0m 3 remain
+
+[0m Hand 144
+[0m default/go_home                        357 -   1 = 356
+[0m imported/redwolf_programs/_sinus-oidal 215 -   1 = 214
+[0m imported/redwolf_programs/_dumb__ogre  214 -   2 = 212
+[0m 3 remain
+
+[0m Hand 145
+[0m default/go_home                        356 -   1 = 355
+[0m imported/redwolf_programs/_sinus-oidal 214 -   3 = 211
+[0m imported/redwolf_programs/_dumb__ogre  212 -   2 = 210
+[0m 3 remain
+
+[0m Hand 146
+[0m default/go_home                        355 -   1 = 354
+[0m imported/redwolf_programs/_dumb__ogre  210 -   2 = 208
+[0m imported/redwolf_programs/_sinus-oidal 211 -   4 = 207
+[0m 3 remain
+
+[0m Hand 147
+[0m default/go_home                        354 -   1 = 353
+[0m imported/redwolf_programs/_dumb__ogre  208 -   2 = 206
+[0m imported/redwolf_programs/_sinus-oidal 207 -   3 = 204
+[0m 3 remain
+
+[0m Hand 148
+[0m default/go_home                        353 -   1 = 352
+[0m imported/redwolf_programs/_dumb__ogre  206 -   2 = 204
+[0m imported/redwolf_programs/_sinus-oidal 204 -   2 = 202
+[0m 3 remain
+
+[0m Hand 149
+[0m default/go_home                        352 -   1 = 351
+[0m imported/redwolf_programs/_dumb__ogre  204 -   2 = 202
+[0m imported/redwolf_programs/_sinus-oidal 202 -   1 = 201
+[0m 3 remain
+
+[0m Hand 150
+[0m default/go_home                        351 -   1 = 350
+[0m imported/redwolf_programs/_dumb__ogre  202 -   2 = 200
+[0m imported/redwolf_programs/_sinus-oidal 201 -   1 = 200
+[0m 3 remain
+
+[0m Hand 151
+[0m default/go_home                        350 -   1 = 349
+[0m imported/redwolf_programs/_sinus-oidal 200 -   1 = 199
+[0m imported/redwolf_programs/_dumb__ogre  200 -   2 = 198
+[0m 3 remain
+
+[0m Hand 152
+[0m default/go_home                        349 -   1 = 348
+[0m imported/redwolf_programs/_sinus-oidal 199 -   1 = 198
+[0m imported/redwolf_programs/_dumb__ogre  198 -   2 = 196
+[0m 3 remain
+
+[0m Hand 153
+[0m default/go_home                        348 -   1 = 347
+[0m imported/redwolf_programs/_sinus-oidal 198 -   3 = 195
+[0m imported/redwolf_programs/_dumb__ogre  196 -   2 = 194
+[0m 3 remain
+
+[0m Hand 154
+[0m default/go_home                        347 -   1 = 346
+[0m imported/redwolf_programs/_dumb__ogre  194 -   2 = 192
+[0m imported/redwolf_programs/_sinus-oidal 195 -   4 = 191
+[0m 3 remain
+
+[0m Hand 155
+[0m default/go_home                        346 -   1 = 345
+[0m imported/redwolf_programs/_dumb__ogre  192 -   2 = 190
+[0m imported/redwolf_programs/_sinus-oidal 191 -   3 = 188
+[0m 3 remain
+
+[0m Hand 156
+[0m default/go_home                        345 -   1 = 344
+[0m imported/redwolf_programs/_dumb__ogre  190 -   2 = 188
+[0m imported/redwolf_programs/_sinus-oidal 188 -   2 = 186
+[0m 3 remain
+
+[0m Hand 157
+[0m default/go_home                        344 -   1 = 343
+[0m imported/redwolf_programs/_dumb__ogre  188 -   2 = 186
+[0m imported/redwolf_programs/_sinus-oidal 186 -   1 = 185
+[0m 3 remain
+
+[0m Hand 158
+[0m default/go_home                        343 -   1 = 342
+[0m imported/redwolf_programs/_dumb__ogre  186 -   2 = 184
+[0m imported/redwolf_programs/_sinus-oidal 185 -   1 = 184
+[0m 3 remain
+
+[0m Hand 159
+[0m default/go_home                        342 -   1 = 341
+[0m imported/redwolf_programs/_sinus-oidal 184 -   1 = 183
+[0m imported/redwolf_programs/_dumb__ogre  184 -   2 = 182
+[0m 3 remain
+
+[0m Hand 160
+[0m default/go_home                        341 -   1 = 340
+[0m imported/redwolf_programs/_sinus-oidal 183 -   1 = 182
+[0m imported/redwolf_programs/_dumb__ogre  182 -   2 = 180
+[0m 3 remain
+
+[0m Hand 161
+[0m default/go_home                        340 -   1 = 339
+[0m imported/redwolf_programs/_sinus-oidal 182 -   3 = 179
+[0m imported/redwolf_programs/_dumb__ogre  180 -   2 = 178
+[0m 3 remain
+
+[0m Hand 162
+[0m default/go_home                        339 -   1 = 338
+[0m imported/redwolf_programs/_dumb__ogre  178 -   2 = 176
+[0m imported/redwolf_programs/_sinus-oidal 179 -   4 = 175
+[0m 3 remain
+
+[0m Hand 163
+[0m default/go_home                        338 -   1 = 337
+[0m imported/redwolf_programs/_dumb__ogre  176 -   2 = 174
+[0m imported/redwolf_programs/_sinus-oidal 175 -   3 = 172
+[0m 3 remain
+
+[0m Hand 164
+[0m default/go_home                        337 -   1 = 336
+[0m imported/redwolf_programs/_dumb__ogre  174 -   2 = 172
+[0m imported/redwolf_programs/_sinus-oidal 172 -   2 = 170
+[0m 3 remain
+
+[0m Hand 165
+[0m default/go_home                        336 -   1 = 335
+[0m imported/redwolf_programs/_dumb__ogre  172 -   2 = 170
+[0m imported/redwolf_programs/_sinus-oidal 170 -   1 = 169
+[0m 3 remain
+
+[0m Hand 166
+[0m default/go_home                        335 -   1 = 334
+[0m imported/redwolf_programs/_dumb__ogre  170 -   2 = 168
+[0m imported/redwolf_programs/_sinus-oidal 169 -   1 = 168
+[0m 3 remain
+
+[0m Hand 167
+[0m default/go_home                        334 -   1 = 333
+[0m imported/redwolf_programs/_sinus-oidal 168 -   1 = 167
+[0m imported/redwolf_programs/_dumb__ogre  168 -   2 = 166
+[0m 3 remain
+
+[0m Hand 168
+[0m default/go_home                        333 -   1 = 332
+[0m imported/redwolf_programs/_sinus-oidal 167 -   2 = 165
+[0m imported/redwolf_programs/_dumb__ogre  166 -   2 = 164
+[0m 3 remain
+
+[0m Hand 169
+[0m default/go_home                        332 -   1 = 331
+[0m imported/redwolf_programs/_sinus-oidal 165 -   3 = 162
+[0m imported/redwolf_programs/_dumb__ogre  164 -   2 = 162
+[0m 3 remain
+
+[0m Hand 170
+[0m default/go_home                        331 -   1 = 330
+[0m imported/redwolf_programs/_dumb__ogre  162 -   2 = 160
+[0m imported/redwolf_programs/_sinus-oidal 162 -   4 = 158
+[0m 3 remain
+
+[0m Hand 171
+[0m default/go_home                        330 -   1 = 329
+[0m imported/redwolf_programs/_dumb__ogre  160 -   2 = 158
+[0m imported/redwolf_programs/_sinus-oidal 158 -   3 = 155
+[0m 3 remain
+
+[0m Hand 172
+[0m default/go_home                        329 -   1 = 328
+[0m imported/redwolf_programs/_dumb__ogre  158 -   2 = 156
+[0m imported/redwolf_programs/_sinus-oidal 155 -   2 = 153
+[0m 3 remain
+
+[0m Hand 173
+[0m default/go_home                        328 -   1 = 327
+[0m imported/redwolf_programs/_dumb__ogre  156 -   2 = 154
+[0m imported/redwolf_programs/_sinus-oidal 153 -   1 = 152
+[0m 3 remain
+
+[0m Hand 174
+[0m default/go_home                        327 -   1 = 326
+[0m imported/redwolf_programs/_dumb__ogre  154 -   2 = 152
+[0m imported/redwolf_programs/_sinus-oidal 152 -   1 = 151
+[0m 3 remain
+
+[0m Hand 175
+[0m default/go_home                        326 -   1 = 325
+[0m imported/redwolf_programs/_dumb__ogre  152 -   2 = 150
+[0m imported/redwolf_programs/_sinus-oidal 151 -   1 = 150
+[0m 3 remain
+
+[0m Hand 176
+[0m default/go_home                        325 -   1 = 324
+[0m imported/redwolf_programs/_sinus-oidal 150 -   1 = 149
+[0m imported/redwolf_programs/_dumb__ogre  150 -   2 = 148
+[0m 3 remain
+
+[0m Hand 177
+[0m default/go_home                        324 -   1 = 323
+[0m imported/redwolf_programs/_sinus-oidal 149 -   3 = 146
+[0m imported/redwolf_programs/_dumb__ogre  148 -   2 = 146
+[0m 3 remain
+
+[0m Hand 178
+[0m default/go_home                        323 -   1 = 322
+[0m imported/redwolf_programs/_dumb__ogre  146 -   2 = 144
+[0m imported/redwolf_programs/_sinus-oidal 146 -   4 = 142
+[0m 3 remain
+
+[0m Hand 179
+[0m default/go_home                        322 -   1 = 321
+[0m imported/redwolf_programs/_dumb__ogre  144 -   2 = 142
+[0m imported/redwolf_programs/_sinus-oidal 142 -   3 = 139
+[0m 3 remain
+
+[0m Hand 180
+[0m default/go_home                        321 -   1 = 320
+[0m imported/redwolf_programs/_dumb__ogre  142 -   2 = 140
+[0m imported/redwolf_programs/_sinus-oidal 139 -   2 = 137
+[0m 3 remain
+
+[0m Hand 181
+[0m default/go_home                        320 -   1 = 319
+[0m imported/redwolf_programs/_dumb__ogre  140 -   2 = 138
+[0m imported/redwolf_programs/_sinus-oidal 137 -   1 = 136
+[0m 3 remain
+
+[0m Hand 182
+[0m default/go_home                        319 -   1 = 318
+[0m imported/redwolf_programs/_dumb__ogre  138 -   2 = 136
+[0m imported/redwolf_programs/_sinus-oidal 136 -   1 = 135
+[0m 3 remain
+
+[0m Hand 183
+[0m default/go_home                        318 -   1 = 317
+[0m imported/redwolf_programs/_dumb__ogre  136 -   2 = 134
+[0m imported/redwolf_programs/_sinus-oidal 135 -   1 = 134
+[0m 3 remain
+
+[0m Hand 184
+[0m default/go_home                        317 -   1 = 316
+[0m imported/redwolf_programs/_sinus-oidal 134 -   1 = 133
+[0m imported/redwolf_programs/_dumb__ogre  134 -   2 = 132
+[0m 3 remain
+
+[0m Hand 185
+[0m default/go_home                        316 -   1 = 315
+[0m imported/redwolf_programs/_sinus-oidal 133 -   3 = 130
+[0m imported/redwolf_programs/_dumb__ogre  132 -   2 = 130
+[0m 3 remain
+
+[0m Hand 186
+[0m default/go_home                        315 -   1 = 314
+[0m imported/redwolf_programs/_dumb__ogre  130 -   2 = 128
+[0m imported/redwolf_programs/_sinus-oidal 130 -   4 = 126
+[0m 3 remain
+
+[0m Hand 187
+[0m default/go_home                        314 -   1 = 313
+[0m imported/redwolf_programs/_dumb__ogre  128 -   2 = 126
+[0m imported/redwolf_programs/_sinus-oidal 126 -   3 = 123
+[0m 3 remain
+
+[0m Hand 188
+[0m default/go_home                        313 -   1 = 312
+[0m imported/redwolf_programs/_dumb__ogre  126 -   2 = 124
+[0m imported/redwolf_programs/_sinus-oidal 123 -   1 = 122
+[0m 3 remain
+
+[0m Hand 189
+[0m default/go_home                        312 -   1 = 311
+[0m imported/redwolf_programs/_dumb__ogre  124 -   2 = 122
+[0m imported/redwolf_programs/_sinus-oidal 122 -   1 = 121
+[0m 3 remain
+
+[0m Hand 190
+[0m default/go_home                        311 -   1 = 310
+[0m imported/redwolf_programs/_dumb__ogre  122 -   2 = 120
+[0m imported/redwolf_programs/_sinus-oidal 121 -   1 = 120
+[0m 3 remain
+
+[0m Hand 191
+[0m default/go_home                        310 -   1 = 309
+[0m imported/redwolf_programs/_sinus-oidal 120 -   1 = 119
+[0m imported/redwolf_programs/_dumb__ogre  120 -   2 = 118
+[0m 3 remain
+
+[0m Hand 192
+[0m default/go_home                        309 -   1 = 308
+[0m imported/redwolf_programs/_sinus-oidal 119 -   1 = 118
+[0m imported/redwolf_programs/_dumb__ogre  118 -   2 = 116
+[0m 3 remain
+
+[0m Hand 193
+[0m default/go_home                        308 -   1 = 307
+[0m imported/redwolf_programs/_sinus-oidal 118 -   3 = 115
+[0m imported/redwolf_programs/_dumb__ogre  116 -   2 = 114
+[0m 3 remain
+
+[0m Hand 194
+[0m default/go_home                        307 -   1 = 306
+[0m imported/redwolf_programs/_dumb__ogre  114 -   2 = 112
+[0m imported/redwolf_programs/_sinus-oidal 115 -   4 = 111
+[0m 3 remain
+
+[0m Hand 195
+[0m default/go_home                        306 -   1 = 305
+[0m imported/redwolf_programs/_dumb__ogre  112 -   2 = 110
+[0m imported/redwolf_programs/_sinus-oidal 111 -   3 = 108
+[0m 3 remain
+
+[0m Hand 196
+[0m default/go_home                        305 -   1 = 304
+[0m imported/redwolf_programs/_dumb__ogre  110 -   2 = 108
+[0m imported/redwolf_programs/_sinus-oidal 108 -   2 = 106
+[0m 3 remain
+
+[0m Hand 197
+[0m default/go_home                        304 -   1 = 303
+[0m imported/redwolf_programs/_dumb__ogre  108 -   2 = 106
+[0m imported/redwolf_programs/_sinus-oidal 106 -   1 = 105
+[0m 3 remain
+
+[0m Hand 198
+[0m default/go_home                        303 -   1 = 302
+[0m imported/redwolf_programs/_dumb__ogre  106 -   2 = 104
+[0m imported/redwolf_programs/_sinus-oidal 105 -   1 = 104
+[0m 3 remain
+
+[0m Hand 199
+[0m default/go_home                        302 -   1 = 301
+[0m imported/redwolf_programs/_sinus-oidal 104 -   1 = 103
+[0m imported/redwolf_programs/_dumb__ogre  104 -   2 = 102
+[0m 3 remain
+
+[0m Hand 200
+[0m default/go_home                        301 -   1 = 300
+[0m imported/redwolf_programs/_sinus-oidal 103 -   2 = 101
+[0m imported/redwolf_programs/_dumb__ogre  102 -   2 = 100
+[0m 3 remain
+
+[0m Hand 201
+[0m default/go_home                        300 -   1 = 299
+[0m imported/redwolf_programs/_sinus-oidal 101 -   3 =  98
+[0m imported/redwolf_programs/_dumb__ogre  100 -   2 =  98
+[0m 3 remain
+
+[0m Hand 202
+[0m default/go_home                        299 -   1 = 298
+[0m imported/redwolf_programs/_dumb__ogre   98 -   2 =  96
+[0m imported/redwolf_programs/_sinus-oidal  98 -   4 =  94
+[0m 3 remain
+
+[0m Hand 203
+[0m default/go_home                        298 -   1 = 297
+[0m imported/redwolf_programs/_dumb__ogre   96 -   2 =  94
+[0m imported/redwolf_programs/_sinus-oidal  94 -   3 =  91
+[0m 3 remain
+
+[0m Hand 204
+[0m default/go_home                        297 -   1 = 296
+[0m imported/redwolf_programs/_dumb__ogre   94 -   2 =  92
+[0m imported/redwolf_programs/_sinus-oidal  91 -   2 =  89
+[0m 3 remain
+
+[0m Hand 205
+[0m default/go_home                        296 -   1 = 295
+[0m imported/redwolf_programs/_dumb__ogre   92 -   2 =  90
+[0m imported/redwolf_programs/_sinus-oidal  89 -   1 =  88
+[0m 3 remain
+
+[0m Hand 206
+[0m default/go_home                        295 -   1 = 294
+[0m imported/redwolf_programs/_dumb__ogre   90 -   2 =  88
+[0m imported/redwolf_programs/_sinus-oidal  88 -   1 =  87
+[0m 3 remain
+
+[0m Hand 207
+[0m default/go_home                        294 -   1 = 293
+[0m imported/redwolf_programs/_dumb__ogre   88 -   2 =  86
+[0m imported/redwolf_programs/_sinus-oidal  87 -   1 =  86
+[0m 3 remain
+
+[0m Hand 208
+[0m default/go_home                        293 -   1 = 292
+[0m imported/redwolf_programs/_dumb__ogre   86 -   2 =  84
+[0m imported/redwolf_programs/_sinus-oidal  86 -   2 =  84
+[0m 3 remain
+
+[0m Hand 209
+[0m default/go_home                        292 -   1 = 291
+[0m imported/redwolf_programs/_dumb__ogre   84 -   2 =  82
+[0m imported/redwolf_programs/_sinus-oidal  84 -   3 =  81
+[0m 3 remain
+
+[0m Hand 210
+[0m default/go_home                        291 -   1 = 290
+[0m imported/redwolf_programs/_dumb__ogre   82 -   2 =  80
+[0m imported/redwolf_programs/_sinus-oidal  81 -   4 =  77
+[0m 3 remain
+
+[0m Hand 211
+[0m default/go_home                        290 -   1 = 289
+[0m imported/redwolf_programs/_dumb__ogre   80 -   2 =  78
+[0m imported/redwolf_programs/_sinus-oidal  77 -   3 =  74
+[0m 3 remain
+
+[0m Hand 212
+[0m default/go_home                        289 -   1 = 288
+[0m imported/redwolf_programs/_dumb__ogre   78 -   2 =  76
+[0m imported/redwolf_programs/_sinus-oidal  74 -   2 =  72
+[0m 3 remain
+
+[0m Hand 213
+[0m default/go_home                        288 -   1 = 287
+[0m imported/redwolf_programs/_dumb__ogre   76 -   2 =  74
+[0m imported/redwolf_programs/_sinus-oidal  72 -   1 =  71
+[0m 3 remain
+
+[0m Hand 214
+[0m default/go_home                        287 -   1 = 286
+[0m imported/redwolf_programs/_dumb__ogre   74 -   2 =  72
+[0m imported/redwolf_programs/_sinus-oidal  71 -   1 =  70
+[0m 3 remain
+
+[0m Hand 215
+[0m default/go_home                        286 -   1 = 285
+[0m imported/redwolf_programs/_dumb__ogre   72 -   2 =  70
+[0m imported/redwolf_programs/_sinus-oidal  70 -   1 =  69
+[0m 3 remain
+
+[0m Hand 216
+[0m default/go_home                        285 -   1 = 284
+[0m imported/redwolf_programs/_dumb__ogre   70 -   2 =  68
+[0m imported/redwolf_programs/_sinus-oidal  69 -   1 =  68
+[0m 3 remain
+
+[0m Hand 217
+[0m default/go_home                        284 -   1 = 283
+[0m imported/redwolf_programs/_dumb__ogre   68 -   2 =  66
+[0m imported/redwolf_programs/_sinus-oidal  68 -   3 =  65
+[0m 3 remain
+
+[0m Hand 218
+[0m default/go_home                        283 -   1 = 282
+[0m imported/redwolf_programs/_dumb__ogre   66 -   2 =  64
+[0m imported/redwolf_programs/_sinus-oidal  65 -   4 =  61
+[0m 3 remain
+
+[0m Hand 219
+[0m default/go_home                        282 -   1 = 281
+[0m imported/redwolf_programs/_dumb__ogre   64 -   2 =  62
+[0m imported/redwolf_programs/_sinus-oidal  61 -   3 =  58
+[0m 3 remain
+
+[0m Hand 220
+[0m default/go_home                        281 -   1 = 280
+[0m imported/redwolf_programs/_dumb__ogre   62 -   2 =  60
+[0m imported/redwolf_programs/_sinus-oidal  58 -   1 =  57
+[0m 3 remain
+
+[0m Hand 221
+[0m default/go_home                        280 -   1 = 279
+[0m imported/redwolf_programs/_dumb__ogre   60 -   2 =  58
+[0m imported/redwolf_programs/_sinus-oidal  57 -   1 =  56
+[0m 3 remain
+
+[0m Hand 222
+[0m default/go_home                        279 -   1 = 278
+[0m imported/redwolf_programs/_dumb__ogre   58 -   2 =  56
+[0m imported/redwolf_programs/_sinus-oidal  56 -   1 =  55
+[0m 3 remain
+
+[0m Hand 223
+[0m default/go_home                        278 -   1 = 277
+[0m imported/redwolf_programs/_dumb__ogre   56 -   2 =  54
+[0m imported/redwolf_programs/_sinus-oidal  55 -   1 =  54
+[0m 3 remain
+
+[0m Hand 224
+[0m default/go_home                        277 -   1 = 276
+[0m imported/redwolf_programs/_sinus-oidal  54 -   1 =  53
+[0m imported/redwolf_programs/_dumb__ogre   54 -   2 =  52
+[0m 3 remain
+
+[0m Hand 225
+[0m default/go_home                        276 -   1 = 275
+[0m imported/redwolf_programs/_sinus-oidal  53 -   3 =  50
+[0m imported/redwolf_programs/_dumb__ogre   52 -   2 =  50
+[0m 3 remain
+
+[0m Hand 226
+[0m default/go_home                        275 -   1 = 274
+[0m imported/redwolf_programs/_dumb__ogre   50 -   2 =  48
+[0m imported/redwolf_programs/_sinus-oidal  50 -   4 =  46
+[0m 3 remain
+
+[0m Hand 227
+[0m default/go_home                        274 -   1 = 273
+[0m imported/redwolf_programs/_dumb__ogre   48 -   2 =  46
+[0m imported/redwolf_programs/_sinus-oidal  46 -   3 =  43
+[0m 3 remain
+
+[0m Hand 228
+[0m default/go_home                        273 -   1 = 272
+[0m imported/redwolf_programs/_dumb__ogre   46 -   2 =  44
+[0m imported/redwolf_programs/_sinus-oidal  43 -   2 =  41
+[0m 3 remain
+
+[0m Hand 229
+[0m default/go_home                        272 -   1 = 271
+[0m imported/redwolf_programs/_dumb__ogre   44 -   2 =  42
+[0m imported/redwolf_programs/_sinus-oidal  41 -   1 =  40
+[0m 3 remain
+
+[0m Hand 230
+[0m default/go_home                        271 -   1 = 270
+[0m imported/redwolf_programs/_dumb__ogre   42 -   2 =  40
+[0m imported/redwolf_programs/_sinus-oidal  40 -   1 =  39
+[0m 3 remain
+
+[0m Hand 231
+[0m default/go_home                        270 -   1 = 269
+[0m imported/redwolf_programs/_dumb__ogre   40 -   2 =  38
+[0m imported/redwolf_programs/_sinus-oidal  39 -   1 =  38
+[0m 3 remain
+
+[0m Hand 232
+[0m default/go_home                        269 -   1 = 268
+[0m imported/redwolf_programs/_dumb__ogre   38 -   2 =  36
+[0m imported/redwolf_programs/_sinus-oidal  38 -   2 =  36
+[0m 3 remain
+
+[0m Hand 233
+[0m default/go_home                        268 -   1 = 267
+[0m imported/redwolf_programs/_dumb__ogre   36 -   2 =  34
+[0m imported/redwolf_programs/_sinus-oidal  36 -   3 =  33
+[0m 3 remain
+
+[0m Hand 234
+[0m default/go_home                        267 -   1 = 266
+[0m imported/redwolf_programs/_dumb__ogre   34 -   2 =  32
+[0m imported/redwolf_programs/_sinus-oidal  33 -   4 =  29
+[0m 3 remain
+
+[0m Hand 235
+[0m default/go_home                        266 -   1 = 265
+[0m imported/redwolf_programs/_dumb__ogre   32 -   2 =  30
+[0m imported/redwolf_programs/_sinus-oidal  29 -   3 =  26
+[0m 3 remain
+
+[0m Hand 236
+[0m default/go_home                        265 -   1 = 264
+[0m imported/redwolf_programs/_dumb__ogre   30 -   2 =  28
+[0m imported/redwolf_programs/_sinus-oidal  26 -   2 =  24
+[0m 3 remain
+
+[0m Hand 237
+[0m default/go_home                        264 -   1 = 263
+[0m imported/redwolf_programs/_dumb__ogre   28 -   2 =  26
+[0m imported/redwolf_programs/_sinus-oidal  24 -   1 =  23
+[0m 3 remain
+
+[0m Hand 238
+[0m default/go_home                        263 -   1 = 262
+[0m imported/redwolf_programs/_dumb__ogre   26 -   2 =  24
+[0m imported/redwolf_programs/_sinus-oidal  23 -   1 =  22
+[0m 3 remain
+
+[0m Hand 239
+[0m default/go_home                        262 -   1 = 261
+[0m imported/redwolf_programs/_dumb__ogre   24 -   2 =  22
+[0m imported/redwolf_programs/_sinus-oidal  22 -   1 =  21
+[0m 3 remain
+
+[0m Hand 240
+[0m default/go_home                        261 -   1 = 260
+[0m imported/redwolf_programs/_dumb__ogre   22 -   2 =  20
+[0m imported/redwolf_programs/_sinus-oidal  21 -   1 =  20
+[0m 3 remain
+
+[0m Hand 241
+[0m default/go_home                        260 -   1 = 259
+[0m imported/redwolf_programs/_dumb__ogre   20 -   2 =  18
+[0m imported/redwolf_programs/_sinus-oidal  20 -   3 =  17
+[0m 3 remain
+
+[0m Hand 242
+[0m default/go_home                        259 -   1 = 258
+[0m imported/redwolf_programs/_dumb__ogre   18 -   2 =  16
+[0m imported/redwolf_programs/_sinus-oidal  17 -   4 =  13
+[0m 3 remain
+
+[0m Hand 243
+[0m default/go_home                        258 -   1 = 257
+[0m imported/redwolf_programs/_dumb__ogre   16 -   2 =  14
+[0m imported/redwolf_programs/_sinus-oidal  13 -   3 =  10
+[0m 3 remain
+
+[0m Hand 244
+[0m default/go_home                        257 -   1 = 256
+[0m imported/redwolf_programs/_dumb__ogre   14 -   2 =  12
+[0m imported/redwolf_programs/_sinus-oidal  10 -   2 =   8
+[0m 3 remain
+
+[0m Hand 245
+[0m default/go_home                        256 -   1 = 255
+[0m imported/redwolf_programs/_dumb__ogre   12 -   2 =  10
+[0m imported/redwolf_programs/_sinus-oidal   8 -   1 =   7
+[0m 3 remain
+
+[0m Hand 246
+[0m default/go_home                        255 -   1 = 254
+[0m imported/redwolf_programs/_dumb__ogre   10 -   2 =   8
+[0m imported/redwolf_programs/_sinus-oidal   7 -   1 =   6
+[0m 3 remain
+
+[0m Hand 247
+[0m default/go_home                        254 -   1 = 253
+[0m imported/redwolf_programs/_dumb__ogre    8 -   2 =   6
+[0m imported/redwolf_programs/_sinus-oidal   6 -   1 =   5
+[0m 3 remain
+
+[0m Hand 248
+[0m default/go_home                        253 -   1 = 252
+[0m imported/redwolf_programs/_dumb__ogre    6 -   2 =   4
+[0m imported/redwolf_programs/_sinus-oidal   5 -   1 =   4
+[0m 3 remain
+
+[0m Hand 249
+[0m default/go_home                        252 -   1 = 251
+[0m imported/redwolf_programs/_dumb__ogre    4 -   2 =   2
+[0m imported/redwolf_programs/_sinus-oidal   4 -   3 =   1
+[0m 3 remain
+
+[0m Hand 250
+[0m default/go_home                        251 -   1 = 250
+[31m imported/redwolf_programs/_dumb__ogre    2 -   2 =   0
+[31m imported/redwolf_programs/_sinus-oidal   1 -   1 =   0
+[0m 3 remain
 
 [5m Final Score:
 
 [0m Ogre                                   Hand  NP Reason
-[32m default/half_way                          7    4 Winner!
+[32m default/go_home                           250 250 Winner!
+[0m imported/redwolf_programs/_dumb__ogre     250   0 Has no nose
+[0m imported/redwolf_programs/_sinus-oidal    250   0 Has no nose
+[0m default/half_way                          10   0 Has no nose
 [0m imported/user/_half-life                  7    0 Has no nose
 [0m default/go_big                            4    0 Has no nose
-[0m imported/redwolf_programs/_sinus-oidal    3  490 Cowardice!
-[0m imported/redwolf_programs/_dumb__ogre     2  496 Cowardice!
-[0m default/go_home                           1  499 Cowardice!
