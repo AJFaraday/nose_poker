@@ -36,7 +36,7 @@ module.exports = class {
             }
         }
 
-        this.controller.declare(bid + 1);
+        this.controller.declare(finalBid + 1);
     }
 };
 
