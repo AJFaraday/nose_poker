@@ -47,7 +47,13 @@ class Ogre {
   }
 
   sort_number() {
-    return (this.reached_hand * 1000) + this.np;
+    if (this.active) {
+      this.active_bounus = 10000;
+    } else {
+      this.active_bounus = 0;
+    }
+
+    return this.active_bounus + (this.reached_hand * 1000) + this.np;
   }
 
 }

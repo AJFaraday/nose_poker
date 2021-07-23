@@ -106,7 +106,9 @@ class Game {
     console.log("\x1b[0m", `${'Ogre'.padEnd(this.longest_name)} Hand  NP Reason`)
 
     var format;
-    this.active_ogres.forEach(ogre => this.inactive_ogres.push(ogre));
+    this.active_ogres.forEach(ogre => {
+      this.inactive_ogres.push(ogre);
+    });
     this.inactive_ogres = this.inactive_ogres.sort((a, b) => {
       return b.sort_number() - a.sort_number()
     })
