@@ -15,7 +15,7 @@ class Controller {
 
   scores() {
     return this.game.active_ogres.map(ogre => {
-      return ogre.score;
+      return ogre.np;
     }).sort((a, b) => {
       return b - a;
     });
