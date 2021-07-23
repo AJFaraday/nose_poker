@@ -29,17 +29,17 @@
 [0m 3 remain
 
 [0m Hand 5
-[31m imported/user/_half-life                32 -  16 =  16
-[31m default/half_way                        32 -  16 =  16
+[0m imported/user/_half-life                32 -  16 =  16
+[0m default/half_way                        32 -  16 =  16
 [0m 2 remain
 
 [0m Hand 6
-[31m imported/user/_half-life                16 -   8 =   8
-[31m default/half_way                        16 -   8 =   8
+[0m imported/user/_half-life                16 -   8 =   8
+[0m default/half_way                        16 -   8 =   8
 [0m 2 remain
 
 [0m Hand 7
-[31m default/half_way                         8 -   4 =   4
+[0m default/half_way                         8 -   4 =   4
 [31m imported/user/_half-life                 8 -   8 =   0
 [0m 2 remain
 
@@ -53,4 +53,4 @@
 [0m imported/redwolf_programs/_dumb__ogre     2  496 Cowardice!
 [0m default/go_home                           1  499 Cowardice!
 
-Finished in 4ms
+Finished in 3ms

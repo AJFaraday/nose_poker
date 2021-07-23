@@ -66,7 +66,7 @@ class Game {
     });
     // The lowest bid is knocked out.
     this.active_ogres.forEach(ogre => {
-      if (ogre.active && ogre.pokes == this.lowest_bid) {
+      if (!this.all_the_same && ogre.active && ogre.pokes == this.lowest_bid) {
         this.knock_out(ogre, "Cowardice!");
       }
     });
@@ -78,6 +78,7 @@ class Game {
     this.active_ogres = this.active_ogres.sort((a, b) => {
       return b.np - a.np;
     });
+    this.all_the_same = this.lowest_bid == this.active_ogres[0].np;
     this.active_ogres.forEach((ogre, index) => {
       ogre.log_move();
     });

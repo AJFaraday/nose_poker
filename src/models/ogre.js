@@ -38,7 +38,7 @@ class Ogre {
 
   log_move() {
     var format;
-    if (this.pokes == this.game.lowest_bid || this.np <= 0) {
+    if ((!this.game.all_the_same && this.pokes == this.game.lowest_bid) || this.np <= 0) {
       format = "\x1b[31m"
     } else {
       format = "\x1b[0m"
