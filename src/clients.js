@@ -6,6 +6,7 @@ module.exports = {
   'imported/mousetail/_troll__adaptive': require('./clients/imported/mousetail/_troll__adaptive.js'),
   'imported/nurator/_adaptive__bot': require('./clients/imported/nurator/_adaptive__bot.js'),
   'imported/redwolf_programs/_dumb__ogre': require('./clients/imported/redwolf_programs/_dumb__ogre.js'),
+  'imported/redwolf_programs/_reverse__pinocchio': require('./clients/imported/redwolf_programs/_reverse__pinocchio.js'),
   'imported/redwolf_programs/_sinus-oidal': require('./clients/imported/redwolf_programs/_sinus-oidal.js'),
   'imported/user/_half-life': require('./clients/imported/user/_half-life.js'),
 };
