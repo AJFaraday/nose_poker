@@ -17,7 +17,7 @@ module.exports = class {
         var scores = this.controller.scores();
         var finalBid = 100;
         for (var i = 0; i < scores.Length; i++) {
-            for (var j = 0; j < this.lastScores.Length; i++) {
+            for (var j = 0; j < this.lastScores.Length; j++) {
                 if (this.lastScores[j] - this.scores[i] < finalBid) {
                     finalBid = this.lastScores[j] - this.scores[i];
                 }
