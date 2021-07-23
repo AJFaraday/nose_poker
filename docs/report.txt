@@ -4,54 +4,61 @@
 [0m imported/mousetail/_troll__adaptive    500 -   2 = 498
 [0m imported/nurator/_adaptive__bot        500 -   2 = 498
 [0m imported/redwolf_programs/_sinus-oidal 500 -   3 = 497
+[0m imported/dobromirm/_incremental_ogre   500 -  10 = 490
 [0m imported/user/_half-life               500 - 250 = 250
 [0m default/half_way                       500 - 250 = 250
 [0m default/go_big                         500 - 450 =  50
-[0m 8 remain
+[0m 9 remain
 
 [0m Hand 2
 [31m imported/redwolf_programs/_dumb__ogre  498 -   2 = 496
 [0m imported/mousetail/_troll__adaptive    498 -   4 = 494
 [0m imported/redwolf_programs/_sinus-oidal 497 -   4 = 493
+[0m imported/dobromirm/_incremental_ogre   490 -  20 = 470
 [0m imported/nurator/_adaptive__bot        498 - 101 = 397
 [0m imported/user/_half-life               250 - 125 = 125
 [0m default/half_way                       250 - 125 = 125
 [0m default/go_big                          50 -  45 =   5
-[0m 7 remain
+[0m 8 remain
 
 [0m Hand 3
 [31m imported/redwolf_programs/_sinus-oidal 493 -   3 = 490
+[0m imported/dobromirm/_incremental_ogre   470 -  30 = 440
 [0m imported/mousetail/_troll__adaptive    494 - 101 = 393
 [0m imported/nurator/_adaptive__bot        397 - 101 = 296
 [0m imported/user/_half-life               125 -  62 =  63
 [0m default/half_way                       125 -  62 =  63
 [0m default/go_big                           5 -   4 =   1
-[0m 6 remain
+[0m 7 remain
 
 [0m Hand 4
+[0m imported/dobromirm/_incremental_ogre   440 -  40 = 400
 [0m imported/mousetail/_troll__adaptive    393 - 101 = 292
 [0m imported/nurator/_adaptive__bot        296 - 101 = 195
 [0m imported/user/_half-life                63 -  31 =  32
 [0m default/half_way                        63 -  31 =  32
 [31m default/go_big                           1 -   1 =   0
-[0m 5 remain
+[0m 6 remain
 
 [0m Hand 5
+[0m imported/dobromirm/_incremental_ogre   400 -  50 = 350
 [0m imported/mousetail/_troll__adaptive    292 - 101 = 191
 [0m imported/nurator/_adaptive__bot        195 - 101 =  94
 [31m imported/user/_half-life                32 -  16 =  16
 [31m default/half_way                        32 -  16 =  16
-[0m 4 remain
+[0m 5 remain
 
 [0m Hand 6
+[31m imported/dobromirm/_incremental_ogre   350 -  60 = 290
 [0m imported/mousetail/_troll__adaptive    191 - 101 =  90
 [31m imported/nurator/_adaptive__bot         94 -  94 =   0
-[0m 2 remain
+[0m 3 remain
 
 [5m Final Score:
 
 [0m Ogre                                   Hand  NP Reason
-[32m imported/mousetail/_troll__adaptive       6   90 Winner!
+[32m imported/dobromirm/_incremental_ogre      6  290 Cowardice!
+[0m imported/mousetail/_troll__adaptive       6   90 Winner!
 [0m imported/nurator/_adaptive__bot           6    0 Has no nose
 [0m imported/user/_half-life                  5   16 Cowardice!
 [0m default/half_way                          5   16 Cowardice!
