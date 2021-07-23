@@ -15,26 +15,16 @@ module.exports = class {
         }
 
         var scores = this.controller.scores();
-        var bids = this.controller.scores();
+        var finalBid = 500;
         for (var i = 0; i < scores.Length; i++) {
-            var minDifference = 0;
             for (var j = 0; j < this.lastScores.Length; i++) {
-                if (this.lastScores[j] - this.scores[i] > minDifference) {
-                    minDifference = this.lastScores[j] - this.scores[i];
+                if (this.lastScores[j] - this.scores[i] < finalBid) {
+                    finalBid = this.lastScores[j] - this.scores[i];
                 }
             }
-
-            bids[i] = minDifference;
         }
 
         this.lastScores = scores;    
-
-        var finalBid = 100;
-        for (var i = 0; i < bids.Length; i++) {
-            if (bids[i] < finalBid) {
-                finalBid = bids[i];
-            }
-        }
 
         this.controller.declare(finalBid + 1);
     }
