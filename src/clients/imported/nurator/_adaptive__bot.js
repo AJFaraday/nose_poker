@@ -18,8 +18,8 @@ module.exports = class {
         var finalBid = 100;
         for (var i = 0; i < scores.Length; i++) {
             for (var j = 0; j < this.lastScores.Length; j++) {
-                if (this.lastScores[j] - this.scores[i] < finalBid) {
-                    finalBid = this.lastScores[j] - this.scores[i];
+                if (this.lastScores[j] - scores[i] < finalBid) {
+                    finalBid = this.lastScores[j] - scores[i];
                 }
             }
         }
