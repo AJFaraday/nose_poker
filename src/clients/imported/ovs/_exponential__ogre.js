@@ -1,5 +1,4 @@
 module.exports = class {
-
     constructor(controller) {
         this.controller = controller;
     }
@@ -8,5 +7,4 @@ module.exports = class {
         let bid = 1 << this.controller.hand_number();
         this.controller.declare(bid);
     }
-
 };
