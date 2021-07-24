@@ -2,6 +2,7 @@ module.exports = {
   'default/go_big': require('./clients/default/go_big.js'),
   'default/go_home': require('./clients/default/go_home.js'),
   'default/half_way': require('./clients/default/half_way.js'),
+  'imported/a_username/_knockout': require('./clients/imported/a_username/_knockout.js'),
   'imported/dobromirm/_incremental_ogre': require('./clients/imported/dobromirm/_incremental_ogre.js'),
   'imported/iceman76/_smart__median': require('./clients/imported/iceman76/_smart__median.js'),
   'imported/mousetail/_troll__adaptive': require('./clients/imported/mousetail/_troll__adaptive.js'),

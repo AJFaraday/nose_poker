@@ -10,11 +10,12 @@
 [0m imported/redwolf_programs/_sinus-oidal                 500 -   3 = 497
 [0m imported/redwolf_programs/_quicksort__ogre             500 -   4 = 496
 [0m imported/dobromirm/_incremental_ogre                   500 -  10 = 490
-[0m imported/redwolf_programs/_simple__optimization _thing 500 -  33 = 467
+[0m imported/a_username/_knockout                          500 -  27 = 473
+[0m imported/redwolf_programs/_simple__optimization _thing 500 -  31 = 469
 [0m imported/user/_half-life                               500 - 250 = 250
 [0m default/half_way                                       500 - 250 = 250
 [0m default/go_big                                         500 - 450 =  50
-[0m 15 remain
+[0m 16 remain
 
 [0m Hand 2
 [31m imported/redwolf_programs/_dumb__ogre                  498 -   2 = 496
@@ -25,13 +26,14 @@
 [0m imported/redwolf_programs/_sinus-oidal                 497 -   4 = 493
 [0m imported/redwolf_programs/_quicksort__ogre             496 -   5 = 491
 [0m imported/dobromirm/_incremental_ogre                   490 -  20 = 470
-[0m imported/redwolf_programs/_simple__optimization _thing 467 -   3 = 464
-[0m imported/the_default./super_smart_bot                  498 -  35 = 463
+[0m imported/redwolf_programs/_simple__optimization _thing 469 -   3 = 466
+[0m imported/the_default./super_smart_bot                  498 -  33 = 465
+[0m imported/a_username/_knockout                          473 -  27 = 446
 [0m imported/nurator/_adaptive__bot                        498 - 101 = 397
 [0m imported/user/_half-life                               250 - 125 = 125
 [0m default/half_way                                       250 - 125 = 125
 [0m default/go_big                                          50 -  45 =   5
-[0m 14 remain
+[0m 15 remain
 
 [0m Hand 3
 [0m imported/tjjfvi/_oldgre                                495 -   2 = 493
@@ -39,15 +41,16 @@
 [0m imported/redwolf_programs/_sinus-oidal                 493 -   3 = 490
 [0m imported/ovs/_exponential__ogre                        494 -   8 = 486
 [0m imported/redwolf_programs/_quicksort__ogre             491 -   7 = 484
-[31m imported/redwolf_programs/_simple__optimization _thing 464 -   1 = 463
-[0m imported/the_default./super_smart_bot                  463 -   6 = 457
+[31m imported/redwolf_programs/_simple__optimization _thing 466 -   1 = 465
+[0m imported/the_default./super_smart_bot                  465 -   6 = 459
 [0m imported/dobromirm/_incremental_ogre                   470 -  30 = 440
+[0m imported/a_username/_knockout                          446 -  27 = 419
 [0m imported/mousetail/_troll__adaptive                    494 -  76 = 418
 [0m imported/nurator/_adaptive__bot                        397 - 101 = 296
 [0m imported/user/_half-life                               125 -  62 =  63
 [0m default/half_way                                       125 -  62 =  63
 [0m default/go_big                                           5 -   4 =   1
-[0m 13 remain
+[0m 14 remain
 
 [0m Hand 4
 [0m imported/tjjfvi/_oldgre                                493 -   2 = 491
@@ -55,14 +58,15 @@
 [0m imported/redwolf_programs/_sinus-oidal                 490 -   2 = 488
 [0m imported/redwolf_programs/_quicksort__ogre             484 -  10 = 474
 [0m imported/ovs/_exponential__ogre                        486 -  16 = 470
-[0m imported/the_default./super_smart_bot                  457 -   2 = 455
+[0m imported/the_default./super_smart_bot                  459 -   2 = 457
 [0m imported/dobromirm/_incremental_ogre                   440 -  40 = 400
+[0m imported/a_username/_knockout                          419 -  27 = 392
 [0m imported/mousetail/_troll__adaptive                    418 -  76 = 342
 [0m imported/nurator/_adaptive__bot                        296 - 101 = 195
 [0m imported/user/_half-life                                63 -  31 =  32
 [0m default/half_way                                        63 -  31 =  32
 [31m default/go_big                                           1 -   1 =   0
-[0m 12 remain
+[0m 13 remain
 
 [0m Hand 5
 [0m imported/tjjfvi/_oldgre                                491 -   2 = 489
@@ -70,72 +74,85 @@
 [0m imported/iceman76/_smart__median                       489 -   6 = 483
 [0m imported/redwolf_programs/_quicksort__ogre             474 -  12 = 462
 [0m imported/ovs/_exponential__ogre                        470 -  32 = 438
-[0m imported/the_default./super_smart_bot                  455 -  33 = 422
+[0m imported/the_default./super_smart_bot                  457 -  33 = 424
+[0m imported/a_username/_knockout                          392 -  27 = 365
 [0m imported/dobromirm/_incremental_ogre                   400 -  50 = 350
 [0m imported/mousetail/_troll__adaptive                    342 -  76 = 266
 [0m imported/nurator/_adaptive__bot                        195 - 101 =  94
 [0m imported/user/_half-life                                32 -  16 =  16
 [0m default/half_way                                        32 -  16 =  16
-[0m 11 remain
+[0m 12 remain
 
 [0m Hand 6
 [0m imported/tjjfvi/_oldgre                                489 -   9 = 480
 [0m imported/iceman76/_smart__median                       483 -  17 = 466
 [0m imported/redwolf_programs/_quicksort__ogre             462 -  15 = 447
-[0m imported/the_default./super_smart_bot                  422 -  17 = 405
+[0m imported/the_default./super_smart_bot                  424 -  17 = 407
 [0m imported/ovs/_exponential__ogre                        438 -  64 = 374
+[0m imported/a_username/_knockout                          365 -  27 = 338
 [0m imported/dobromirm/_incremental_ogre                   350 -  60 = 290
 [0m imported/mousetail/_troll__adaptive                    266 -  76 = 190
 [31m imported/user/_half-life                                16 -   8 =   8
 [31m default/half_way                                        16 -   8 =   8
 [31m imported/nurator/_adaptive__bot                         94 -  94 =   0
-[0m 10 remain
+[0m 11 remain
 
 [0m Hand 7
 [0m imported/tjjfvi/_oldgre                                480 -  19 = 461
 [31m imported/redwolf_programs/_quicksort__ogre             447 -  18 = 429
-[0m imported/iceman76/_smart__median                       466 -  63 = 403
-[0m imported/the_default./super_smart_bot                  405 -  57 = 348
+[0m imported/iceman76/_smart__median                       466 -  54 = 412
+[0m imported/the_default./super_smart_bot                  407 -  50 = 357
+[0m imported/a_username/_knockout                          338 -  31 = 307
 [0m imported/ovs/_exponential__ogre                        374 - 128 = 246
 [0m imported/dobromirm/_incremental_ogre                   290 -  70 = 220
 [0m imported/mousetail/_troll__adaptive                    190 -  76 = 114
-[0m 7 remain
+[0m 8 remain
 
 [0m Hand 8
 [0m imported/tjjfvi/_oldgre                                461 -  51 = 410
-[31m imported/iceman76/_smart__median                       403 -  50 = 353
-[0m imported/the_default./super_smart_bot                  348 -  58 = 290
+[31m imported/iceman76/_smart__median                       412 -  42 = 370
+[0m imported/the_default./super_smart_bot                  357 -  51 = 306
+[0m imported/a_username/_knockout                          307 -  51 = 256
 [0m imported/dobromirm/_incremental_ogre                   220 -  80 = 140
 [0m imported/mousetail/_troll__adaptive                    114 -  76 =  38
 [31m imported/ovs/_exponential__ogre                        246 - 246 =   0
-[0m 6 remain
+[0m 7 remain
 
 [0m Hand 9
 [0m imported/tjjfvi/_oldgre                                410 -  39 = 371
-[0m imported/the_default./super_smart_bot                  290 -  39 = 251
+[0m imported/the_default./super_smart_bot                  306 -  39 = 267
+[0m imported/a_username/_knockout                          256 -  53 = 203
 [0m imported/dobromirm/_incremental_ogre                   140 -  90 =  50
 [31m imported/mousetail/_troll__adaptive                     38 -  38 =   0
-[0m 4 remain
+[0m 5 remain
 
 [0m Hand 10
 [0m imported/tjjfvi/_oldgre                                371 -  51 = 320
-[0m imported/the_default./super_smart_bot                  251 -  51 = 200
+[0m imported/the_default./super_smart_bot                  267 -  51 = 216
+[0m imported/a_username/_knockout                          203 -  53 = 150
 [31m imported/dobromirm/_incremental_ogre                    50 -  50 =   0
-[0m 3 remain
+[0m 4 remain
 
 [0m Hand 11
+[31m imported/the_default./super_smart_bot                  216 -  72 = 144
 [0m imported/tjjfvi/_oldgre                                320 - 200 = 120
-[31m imported/the_default./super_smart_bot                  200 - 199 =   1
+[0m imported/a_username/_knockout                          150 -  73 =  77
+[0m 3 remain
+
+[0m Hand 12
+[31m imported/tjjfvi/_oldgre                                120 -   1 = 119
+[0m imported/a_username/_knockout                           77 -  73 =   4
 [0m 2 remain
 
 [5m Final Score:
 
 [0m Ogre                                                   Hand  NP Reason
-[32m imported/tjjfvi/_oldgre                                   11 120 Winner!
-[0m imported/the_default./super_smart_bot                     11   1 Cowardice!
+[32m imported/a_username/_knockout                             12   4 Winner!
+[0m imported/tjjfvi/_oldgre                                   12 119 Cowardice!
+[0m imported/the_default./super_smart_bot                     11 144 Cowardice!
 [0m imported/dobromirm/_incremental_ogre                      10   0 Has no nose
 [0m imported/mousetail/_troll__adaptive                       9    0 Has no nose
-[0m imported/iceman76/_smart__median                          8  353 Cowardice!
+[0m imported/iceman76/_smart__median                          8  370 Cowardice!
 [0m imported/ovs/_exponential__ogre                           8    0 Has no nose
 [0m imported/redwolf_programs/_quicksort__ogre                7  429 Cowardice!
 [0m imported/user/_half-life                                  6    8 Cowardice!
@@ -143,6 +160,6 @@
 [0m imported/nurator/_adaptive__bot                           6    0 Has no nose
 [0m imported/redwolf_programs/_sinus-oidal                    5  487 Cowardice!
 [0m default/go_big                                            4    0 Has no nose
-[0m imported/redwolf_programs/_simple__optimization _thing    3  463 Cowardice!
+[0m imported/redwolf_programs/_simple__optimization _thing    3  465 Cowardice!
 [0m imported/redwolf_programs/_dumb__ogre                     2  496 Cowardice!
 [0m default/go_home                                           1  499 Cowardice!
