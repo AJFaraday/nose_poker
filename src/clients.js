@@ -12,5 +12,6 @@ module.exports = {
   'imported/redwolf_programs/_simple__optimization _thing': require('./clients/imported/redwolf_programs/_simple__optimization _thing.js'),
   'imported/redwolf_programs/_sinus-oidal': require('./clients/imported/redwolf_programs/_sinus-oidal.js'),
   'imported/the_default./super_smart_bot': require('./clients/imported/the_default./super_smart_bot.js'),
+  'imported/tjjfvi/_oldgre': require('./clients/imported/tjjfvi/_oldgre.js'),
   'imported/user/_half-life': require('./clients/imported/user/_half-life.js'),
 };
