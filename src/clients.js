@@ -5,6 +5,7 @@ module.exports = {
   'imported/a_username/_knockout': require('./clients/imported/a_username/_knockout.js'),
   'imported/dobromirm/_incremental_ogre': require('./clients/imported/dobromirm/_incremental_ogre.js'),
   'imported/iceman76/_smart__median': require('./clients/imported/iceman76/_smart__median.js'),
+  'imported/joshua/_super_dumb bot': require('./clients/imported/joshua/_super_dumb bot.js'),
   'imported/mousetail/_troll__adaptive': require('./clients/imported/mousetail/_troll__adaptive.js'),
   'imported/nurator/_adaptive__bot': require('./clients/imported/nurator/_adaptive__bot.js'),
   'imported/ovs/_exponential__ogre': require('./clients/imported/ovs/_exponential__ogre.js'),
